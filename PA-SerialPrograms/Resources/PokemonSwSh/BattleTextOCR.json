@@ -1,0 +1,38 @@
+﻿{
+    "eng": {
+        "Caught": [ "was caught!" ],
+        "Exp": [ "Your Pokémon gained Exp. Points!" ]
+    },
+    "jpn": {
+        "Caught": [ "捕 ま え た ぞ !", "つ か ま え た ぞ !" ],
+        "Exp": [ " 経 験 値 を も ら っ た !", "け い け ん ち を も ら っ た !" ]
+    },
+    "fra": {
+        "Caught": [ "Vous avez attrapé" ],
+        "Exp": [ "Votre équipe a gagné des Points d'Expérience!" ]
+    },
+    "ita": {
+        "Caught": [ "è stato catturato!" ],
+        "Exp": [ "I Pokémon ricevono Punti Esperienza!" ]
+    },
+    "deu": {
+        "Caught": [ "wurde gefangen!" ],
+        "Exp": [ "Erfahrungspunkte erhalten!" ]
+    },
+    "spa": {
+        "Caught": [ "atrapado!" ],
+        "Exp": [ "¡Tus Pokémon han ganado Puntos de Experiencia!" ]
+    },
+    "kor": {
+        "Caught": [ "잡았다!" ],
+        "Exp": [ "경 험 치 를 얻었다!" ]
+    },
+    "chi_sim": {
+        "Caught": [ "捉 到" ],
+        "Exp": [ "获 得 了 经 验 值 !" ]
+    },
+    "chi_tra": {
+        "Caught": [ "捉 到" ],
+        "Exp": [ "獲 得 了 經 驗 值 !" ]
+    }
+}

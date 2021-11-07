@@ -1,0 +1,1 @@
+From Pokesprites: https://github.com/msikma/pokesprite/tree/master/misc/types/gen8

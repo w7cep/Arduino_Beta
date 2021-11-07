@@ -1,0 +1,114 @@
+{
+    "spriteHeight": 32,
+    "spriteWidth": 32,
+    "spriteLocations": {
+        "beast-ball": {
+            "top": 0,
+            "left": 0
+        },
+        "cherish-ball": {
+            "top": 0,
+            "left": 32
+        },
+        "dive-ball": {
+            "top": 0,
+            "left": 64
+        },
+        "dream-ball": {
+            "top": 0,
+            "left": 96
+        },
+        "dusk-ball": {
+            "top": 0,
+            "left": 128
+        },
+        "fast-ball": {
+            "top": 32,
+            "left": 0
+        },
+        "friend-ball": {
+            "top": 32,
+            "left": 32
+        },
+        "great-ball": {
+            "top": 32,
+            "left": 64
+        },
+        "heal-ball": {
+            "top": 32,
+            "left": 96
+        },
+        "heavy-ball": {
+            "top": 32,
+            "left": 128
+        },
+        "level-ball": {
+            "top": 64,
+            "left": 0
+        },
+        "love-ball": {
+            "top": 64,
+            "left": 32
+        },
+        "lure-ball": {
+            "top": 64,
+            "left": 64
+        },
+        "luxury-ball": {
+            "top": 64,
+            "left": 96
+        },
+        "master-ball": {
+            "top": 64,
+            "left": 128
+        },
+        "moon-ball": {
+            "top": 96,
+            "left": 0
+        },
+        "nest-ball": {
+            "top": 96,
+            "left": 32
+        },
+        "net-ball": {
+            "top": 96,
+            "left": 64
+        },
+        "park-ball": {
+            "top": 96,
+            "left": 96
+        },
+        "poke-ball": {
+            "top": 96,
+            "left": 128
+        },
+        "premier-ball": {
+            "top": 128,
+            "left": 0
+        },
+        "quick-ball": {
+            "top": 128,
+            "left": 32
+        },
+        "repeat-ball": {
+            "top": 128,
+            "left": 64
+        },
+        "safari-ball": {
+            "top": 128,
+            "left": 96
+        },
+        "sport-ball": {
+            "top": 128,
+            "left": 128
+        },
+        "timer-ball": {
+            "top": 160,
+            "left": 0
+        },
+        "ultra-ball": {
+            "top": 160,
+            "left": 32
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "eng": {
+        "No Good": [ "No Good" ],
+        "Decent": [ "Decent" ],
+        "Pretty Good": [ "Pretty Good" ],
+        "Very Good": [ "Very Good" ],
+        "Fantastic": [ "Fantastic" ],
+        "Best": [ "Best" ],
+        "Hyper trained!": [ "Hyper trained!" ]
+    },
+    "jpn": {
+        "No Good": [ "ダメかも" ],
+        "Decent": [ "まあまあ" ],
+        "Pretty Good": [ "かなりいい" ],
+        "Very Good": [ "すごぐいい" ],
+        "Fantastic": [ "すばらしい" ],
+        "Best": [ "さいこう" ],
+        "Hyper trained!": [ "きたえた!" ]
+    },
+    "fra": {
+        "No Good": [ "Pas top ..." ],
+        "Decent": [ "Passable ..." ],
+        "Pretty Good": [ "Bon !" ],
+        "Very Good": [ "Très bon !" ],
+        "Fantastic": [ "Fantastique !" ],
+        "Best": [ "Exceptionnel !" ],
+        "Hyper trained!": [ "Au max !" ]
+    },
+    "ita": {
+        "No Good": [ "Mediocre" ],
+        "Decent": [ "Sufficiente" ],
+        "Pretty Good": [ "Normale" ],
+        "Very Good": [ "Notevole" ],
+        "Fantastic": [ "Eccellente" ],
+        "Best": [ "Stellare" ],
+        "Hyper trained!": [ "Al top" ]
+    },
+    "deu": {
+        "No Good": [ "Schlecht" ],
+        "Decent": [ "Nicht übel" ],
+        "Pretty Good": [ "Gut" ],
+        "Very Good": [ "Sehr gut" ],
+        "Fantastic": [ "Fantastisch" ],
+        "Best": [ "Sensationell" ],
+        "Hyper trained!": [ "Maximiert" ]
+    },
+    "spa": {
+        "No Good": [ "Cojea un poco" ],
+        "Decent": [ "No está mal" ],
+        "Pretty Good": [ "Notable" ],
+        "Very Good": [ "Genial" ],
+        "Fantastic": [ "Espectacular" ],
+        "Best": [ "Inmejorable" ],
+        "Hyper trained!": [ "¡Al máximo!" ]
+    },
+    "kor": {
+        "No Good": [ "별로인 듯" ],
+        "Decent": [ "적 당 하 다" ],
+        "Pretty Good": [ "상당이 좋다" ],
+        "Very Good": [ "굉장이 좋다" ],
+        "Fantastic": [ "훌 륭 하 다" ],
+        "Best": [ "최 고" ],
+        "Hyper trained!": [ "단 련 되 었 다 !" ]
+    },
+    "chi_sim": {
+        "No Good": [ "也 许 不 行" ],
+        "Decent": [ "一 般 般" ],
+        "Pretty Good": [ "相 当 好" ],
+        "Very Good": [ "非 常 好" ],
+        "Fantastic": [ "了 不 起" ],
+        "Best": [ "最 棒" ],
+        "Hyper trained!": [ "锻 炼 了 !" ]
+    },
+    "chi_tra": {
+        "No Good": [ "不 怎 麼 樣" ],
+        "Decent": [ "普 普 通 通" ],
+        "Pretty Good": [ "相 當 好" ],
+        "Very Good": [ "非 常 好" ],
+        "Fantastic": [ "了 不 起" ],
+        "Best": [ "太 完 美 了 ! " ],
+        "Hyper trained!": [ "完 成 鍛 鍊 了 !" ]
+    }
+}

@@ -1,0 +1,2192 @@
+﻿{
+    "abomasnow": {
+        "OCR": [
+            "abomasnow"
+        ],
+        "Sprite": [
+            "abomasnow"
+        ]
+    },
+    "absol": {
+        "OCR": [
+            "absol"
+        ],
+        "Sprite": [
+            "absol"
+        ]
+    },
+    "accelgor": {
+        "OCR": [
+            "accelgor"
+        ],
+        "Sprite": [
+            "accelgor"
+        ]
+    },
+    "alcremie": {
+        "OCR": [
+            "alcremie"
+        ],
+        "Sprite": [
+            "alcremie"
+        ]
+    },
+    "altaria": {
+        "OCR": [
+            "altaria"
+        ],
+        "Sprite": [
+            "altaria"
+        ]
+    },
+    "amoonguss": {
+        "OCR": [
+            "amoonguss"
+        ],
+        "Sprite": [
+            "amoonguss"
+        ]
+    },
+    "araquanid": {
+        "OCR": [
+            "araquanid"
+        ],
+        "Sprite": [
+            "araquanid"
+        ]
+    },
+    "armaldo": {
+        "OCR": [
+            "armaldo"
+        ],
+        "Sprite": [
+            "armaldo"
+        ]
+    },
+    "articuno": {
+        "OCR": [
+            "articuno"
+        ],
+        "Sprite": [
+            "articuno"
+        ]
+    },
+    "audino": {
+        "OCR": [
+            "audino"
+        ],
+        "Sprite": [
+            "audino"
+        ]
+    },
+    "aurorus": {
+        "OCR": [
+            "aurorus"
+        ],
+        "Sprite": [
+            "aurorus"
+        ]
+    },
+    "azelf": {
+        "OCR": [
+            "azelf"
+        ],
+        "Sprite": [
+            "azelf"
+        ]
+    },
+    "azumarill": {
+        "OCR": [
+            "azumarill"
+        ],
+        "Sprite": [
+            "azumarill"
+        ]
+    },
+    "barbaracle": {
+        "OCR": [
+            "barbaracle"
+        ],
+        "Sprite": [
+            "barbaracle"
+        ]
+    },
+    "barraskewda": {
+        "OCR": [
+            "barraskewda"
+        ],
+        "Sprite": [
+            "barraskewda"
+        ]
+    },
+    "basculin-blue-striped": {
+        "OCR": [
+            "basculin"
+        ],
+        "Sprite": [
+            "basculin-blue-striped"
+        ]
+    },
+    "basculin-red-striped": {
+        "OCR": [
+            "basculin"
+        ],
+        "Sprite": [
+            "basculin"
+        ]
+    },
+    "beartic": {
+        "OCR": [
+            "beartic"
+        ],
+        "Sprite": [
+            "beartic"
+        ]
+    },
+    "beheeyem": {
+        "OCR": [
+            "beheeyem"
+        ],
+        "Sprite": [
+            "beheeyem"
+        ]
+    },
+    "bellossom": {
+        "OCR": [
+            "bellossom"
+        ],
+        "Sprite": [
+            "bellossom"
+        ]
+    },
+    "bewear": {
+        "OCR": [
+            "bewear"
+        ],
+        "Sprite": [
+            "bewear"
+        ]
+    },
+    "bisharp": {
+        "OCR": [
+            "bisharp"
+        ],
+        "Sprite": [
+            "bisharp"
+        ]
+    },
+    "blacephalon": {
+        "OCR": [
+            "blacephalon"
+        ],
+        "Sprite": [
+            "blacephalon"
+        ]
+    },
+    "blaziken": {
+        "OCR": [
+            "blaziken"
+        ],
+        "Sprite": [
+            "blaziken"
+        ]
+    },
+    "boldore": {
+        "OCR": [
+            "boldore"
+        ],
+        "Sprite": [
+            "boldore"
+        ]
+    },
+    "boltund": {
+        "OCR": [
+            "boltund"
+        ],
+        "Sprite": [
+            "boltund"
+        ]
+    },
+    "bouffalant": {
+        "OCR": [
+            "bouffalant"
+        ],
+        "Sprite": [
+            "bouffalant"
+        ]
+    },
+    "bronzong": {
+        "OCR": [
+            "bronzong"
+        ],
+        "Sprite": [
+            "bronzong"
+        ]
+    },
+    "butterfree": {
+        "OCR": [
+            "butterfree"
+        ],
+        "Sprite": [
+            "butterfree"
+        ]
+    },
+    "buzzwole": {
+        "OCR": [
+            "buzzwole"
+        ],
+        "Sprite": [
+            "buzzwole"
+        ]
+    },
+    "carkol": {
+        "OCR": [
+            "carkol"
+        ],
+        "Sprite": [
+            "carkol"
+        ]
+    },
+    "celesteela": {
+        "OCR": [
+            "celesteela"
+        ],
+        "Sprite": [
+            "celesteela"
+        ]
+    },
+    "centiskorch": {
+        "OCR": [
+            "centiskorch"
+        ],
+        "Sprite": [
+            "centiskorch"
+        ]
+    },
+    "chansey": {
+        "OCR": [
+            "chansey"
+        ],
+        "Sprite": [
+            "chansey"
+        ]
+    },
+    "charjabug": {
+        "OCR": [
+            "charjabug"
+        ],
+        "Sprite": [
+            "charjabug"
+        ]
+    },
+    "charmeleon": {
+        "OCR": [
+            "charmeleon"
+        ],
+        "Sprite": [
+            "charmeleon"
+        ]
+    },
+    "cherrim": {
+        "OCR": [
+            "cherrim"
+        ],
+        "Sprite": [
+            "cherrim",
+            "cherrim-sunshine"
+        ]
+    },
+    "cinccino": {
+        "OCR": [
+            "cinccino"
+        ],
+        "Sprite": [
+            "cinccino"
+        ]
+    },
+    "claydol": {
+        "OCR": [
+            "claydol"
+        ],
+        "Sprite": [
+            "claydol"
+        ]
+    },
+    "clefable": {
+        "OCR": [
+            "clefable"
+        ],
+        "Sprite": [
+            "clefable"
+        ]
+    },
+    "clefairy": {
+        "OCR": [
+            "clefairy"
+        ],
+        "Sprite": [
+            "clefairy"
+        ]
+    },
+    "coalossal": {
+        "OCR": [
+            "coalossal"
+        ],
+        "Sprite": [
+            "coalossal"
+        ]
+    },
+    "cofagrigus": {
+        "OCR": [
+            "cofagrigus"
+        ],
+        "Sprite": [
+            "cofagrigus"
+        ]
+    },
+    "combusken": {
+        "OCR": [
+            "combusken"
+        ],
+        "Sprite": [
+            "combusken"
+        ]
+    },
+    "comfey": {
+        "OCR": [
+            "comfey"
+        ],
+        "Sprite": [
+            "comfey"
+        ]
+    },
+    "copperajah": {
+        "OCR": [
+            "copperajah"
+        ],
+        "Sprite": [
+            "copperajah"
+        ]
+    },
+    "cradily": {
+        "OCR": [
+            "cradily"
+        ],
+        "Sprite": [
+            "cradily"
+        ]
+    },
+    "cramorant": {
+        "OCR": [
+            "cramorant"
+        ],
+        "Sprite": [
+            "cramorant",
+            "cramorant-gorging",
+            "cramorant-gulping"
+        ]
+    },
+    "crawdaunt": {
+        "OCR": [
+            "crawdaunt"
+        ],
+        "Sprite": [
+            "crawdaunt"
+        ]
+    },
+    "cresselia": {
+        "OCR": [
+            "cresselia"
+        ],
+        "Sprite": [
+            "cresselia"
+        ]
+    },
+    "crustle": {
+        "OCR": [
+            "crustle"
+        ],
+        "Sprite": [
+            "crustle"
+        ]
+    },
+    "cryogonal": {
+        "OCR": [
+            "cryogonal"
+        ],
+        "Sprite": [
+            "cryogonal"
+        ]
+    },
+    "dedenne": {
+        "OCR": [
+            "dedenne"
+        ],
+        "Sprite": [
+            "dedenne"
+        ]
+    },
+    "dialga": {
+        "OCR": [
+            "dialga"
+        ],
+        "Sprite": [
+            "dialga"
+        ]
+    },
+    "diggersby": {
+        "OCR": [
+            "diggersby"
+        ],
+        "Sprite": [
+            "diggersby"
+        ]
+    },
+    "ditto": {
+        "OCR": [
+            "ditto"
+        ],
+        "Sprite": [
+            "ditto"
+        ]
+    },
+    "doublade": {
+        "OCR": [
+            "doublade"
+        ],
+        "Sprite": [
+            "doublade"
+        ]
+    },
+    "dragonair": {
+        "OCR": [
+            "dragonair"
+        ],
+        "Sprite": [
+            "dragonair"
+        ]
+    },
+    "drakloak": {
+        "OCR": [
+            "drakloak"
+        ],
+        "Sprite": [
+            "drakloak"
+        ]
+    },
+    "drapion": {
+        "OCR": [
+            "drapion"
+        ],
+        "Sprite": [
+            "drapion"
+        ]
+    },
+    "drednaw": {
+        "OCR": [
+            "drednaw"
+        ],
+        "Sprite": [
+            "drednaw"
+        ]
+    },
+    "drifblim": {
+        "OCR": [
+            "drifblim"
+        ],
+        "Sprite": [
+            "drifblim"
+        ]
+    },
+    "druddigon": {
+        "OCR": [
+            "druddigon"
+        ],
+        "Sprite": [
+            "druddigon"
+        ]
+    },
+    "dubwool": {
+        "OCR": [
+            "dubwool"
+        ],
+        "Sprite": [
+            "dubwool"
+        ]
+    },
+    "dugtrio": {
+        "OCR": [
+            "dugtrio"
+        ],
+        "Sprite": [
+            "dugtrio"
+        ]
+    },
+    "dugtrio-alola": {
+        "OCR": [
+            "dugtrio"
+        ],
+        "Sprite": [
+            "dugtrio-alola"
+        ]
+    },
+    "dunsparce": {
+        "OCR": [
+            "dunsparce"
+        ],
+        "Sprite": [
+            "dunsparce"
+        ]
+    },
+    "duraludon": {
+        "OCR": [
+            "duraludon"
+        ],
+        "Sprite": [
+            "duraludon"
+        ]
+    },
+    "durant": {
+        "OCR": [
+            "durant"
+        ],
+        "Sprite": [
+            "durant"
+        ]
+    },
+    "dusclops": {
+        "OCR": [
+            "dusclops"
+        ],
+        "Sprite": [
+            "dusclops"
+        ]
+    },
+    "eldegoss": {
+        "OCR": [
+            "eldegoss"
+        ],
+        "Sprite": [
+            "eldegoss"
+        ]
+    },
+    "electabuzz": {
+        "OCR": [
+            "electabuzz"
+        ],
+        "Sprite": [
+            "electabuzz"
+        ]
+    },
+    "emolga": {
+        "OCR": [
+            "emolga"
+        ],
+        "Sprite": [
+            "emolga"
+        ]
+    },
+    "entei": {
+        "OCR": [
+            "entei"
+        ],
+        "Sprite": [
+            "entei"
+        ]
+    },
+    "escavalier": {
+        "OCR": [
+            "escavalier"
+        ],
+        "Sprite": [
+            "escavalier"
+        ]
+    },
+    "exeggutor": {
+        "OCR": [
+            "exeggutor"
+        ],
+        "Sprite": [
+            "exeggutor"
+        ]
+    },
+    "exploud": {
+        "OCR": [
+            "exploud"
+        ],
+        "Sprite": [
+            "exploud"
+        ]
+    },
+    "falinks": {
+        "OCR": [
+            "falinks"
+        ],
+        "Sprite": [
+            "falinks"
+        ]
+    },
+    "flareon": {
+        "OCR": [
+            "flareon"
+        ],
+        "Sprite": [
+            "flareon"
+        ]
+    },
+    "flygon": {
+        "OCR": [
+            "flygon"
+        ],
+        "Sprite": [
+            "flygon"
+        ]
+    },
+    "fraxure": {
+        "OCR": [
+            "fraxure"
+        ],
+        "Sprite": [
+            "fraxure"
+        ]
+    },
+    "froslass": {
+        "OCR": [
+            "froslass"
+        ],
+        "Sprite": [
+            "froslass"
+        ]
+    },
+    "frosmoth": {
+        "OCR": [
+            "frosmoth"
+        ],
+        "Sprite": [
+            "frosmoth"
+        ]
+    },
+    "galvantula": {
+        "OCR": [
+            "galvantula"
+        ],
+        "Sprite": [
+            "galvantula"
+        ]
+    },
+    "garbodor": {
+        "OCR": [
+            "garbodor"
+        ],
+        "Sprite": [
+            "garbodor"
+        ]
+    },
+    "gastrodon": {
+        "OCR": [
+            "gastrodon"
+        ],
+        "Sprite": [
+            "gastrodon-east"
+        ]
+    },
+    "giratina-altered": {
+        "OCR": [
+            "giratina"
+        ],
+        "Sprite": [
+            "giratina"
+        ]
+    },
+    "glalie": {
+        "OCR": [
+            "glalie"
+        ],
+        "Sprite": [
+            "glalie"
+        ]
+    },
+    "gloom": {
+        "OCR": [
+            "gloom"
+        ],
+        "Sprite": [
+            "gloom"
+        ]
+    },
+    "golduck": {
+        "OCR": [
+            "golduck"
+        ],
+        "Sprite": [
+            "golduck"
+        ]
+    },
+    "golurk": {
+        "OCR": [
+            "golurk"
+        ],
+        "Sprite": [
+            "golurk"
+        ]
+    },
+    "gourgeist-average": {
+        "OCR": [
+            "gourgeist"
+        ],
+        "Sprite": [
+            "gourgeist"
+        ]
+    },
+    "grapploct": {
+        "OCR": [
+            "grapploct"
+        ],
+        "Sprite": [
+            "grapploct"
+        ]
+    },
+    "greedent": {
+        "OCR": [
+            "greedent"
+        ],
+        "Sprite": [
+            "greedent"
+        ]
+    },
+    "grimmsnarl": {
+        "OCR": [
+            "grimmsnarl"
+        ],
+        "Sprite": [
+            "grimmsnarl"
+        ]
+    },
+    "groudon": {
+        "OCR": [
+            "groudon"
+        ],
+        "Sprite": [
+            "groudon"
+        ]
+    },
+    "grovyle": {
+        "OCR": [
+            "grovyle"
+        ],
+        "Sprite": [
+            "grovyle"
+        ]
+    },
+    "gurdurr": {
+        "OCR": [
+            "gurdurr"
+        ],
+        "Sprite": [
+            "gurdurr"
+        ]
+    },
+    "guzzlord": {
+        "OCR": [
+            "guzzlord"
+        ],
+        "Sprite": [
+            "guzzlord"
+        ]
+    },
+    "hatterene": {
+        "OCR": [
+            "hatterene"
+        ],
+        "Sprite": [
+            "hatterene"
+        ]
+    },
+    "haunter": {
+        "OCR": [
+            "haunter"
+        ],
+        "Sprite": [
+            "haunter"
+        ]
+    },
+    "hawlucha": {
+        "OCR": [
+            "hawlucha"
+        ],
+        "Sprite": [
+            "hawlucha"
+        ]
+    },
+    "heatmor": {
+        "OCR": [
+            "heatmor"
+        ],
+        "Sprite": [
+            "heatmor"
+        ]
+    },
+    "heatran": {
+        "OCR": [
+            "heatran"
+        ],
+        "Sprite": [
+            "heatran"
+        ]
+    },
+    "heliolisk": {
+        "OCR": [
+            "heliolisk"
+        ],
+        "Sprite": [
+            "heliolisk"
+        ]
+    },
+    "hitmonchan": {
+        "OCR": [
+            "hitmonchan"
+        ],
+        "Sprite": [
+            "hitmonchan"
+        ]
+    },
+    "hitmonlee": {
+        "OCR": [
+            "hitmonlee"
+        ],
+        "Sprite": [
+            "hitmonlee"
+        ]
+    },
+    "hitmontop": {
+        "OCR": [
+            "hitmontop"
+        ],
+        "Sprite": [
+            "hitmontop"
+        ]
+    },
+    "ho-oh": {
+        "OCR": [
+            "ho-oh"
+        ],
+        "Sprite": [
+            "ho-oh"
+        ]
+    },
+    "indeedee-male": {
+        "OCR": [
+            "indeedee"
+        ],
+        "Sprite": [
+            "indeedee"
+        ]
+    },
+    "ivysaur": {
+        "OCR": [
+            "ivysaur"
+        ],
+        "Sprite": [
+            "ivysaur"
+        ]
+    },
+    "jellicent": {
+        "OCR": [
+            "jellicent"
+        ],
+        "Sprite": [
+            "jellicent",
+            "jellicent-f"
+        ]
+    },
+    "jigglypuff": {
+        "OCR": [
+            "jigglypuff"
+        ],
+        "Sprite": [
+            "jigglypuff"
+        ]
+    },
+    "jolteon": {
+        "OCR": [
+            "jolteon"
+        ],
+        "Sprite": [
+            "jolteon"
+        ]
+    },
+    "jynx": {
+        "OCR": [
+            "jynx"
+        ],
+        "Sprite": [
+            "jynx"
+        ]
+    },
+    "kadabra": {
+        "OCR": [
+            "kadabra"
+        ],
+        "Sprite": [
+            "kadabra"
+        ]
+    },
+    "kangaskhan": {
+        "OCR": [
+            "kangaskhan"
+        ],
+        "Sprite": [
+            "kangaskhan"
+        ]
+    },
+    "kartana": {
+        "OCR": [
+            "kartana"
+        ],
+        "Sprite": [
+            "kartana"
+        ]
+    },
+    "kingler": {
+        "OCR": [
+            "kingler"
+        ],
+        "Sprite": [
+            "kingler"
+        ]
+    },
+    "klang": {
+        "OCR": [
+            "klang"
+        ],
+        "Sprite": [
+            "klang"
+        ]
+    },
+    "klefki": {
+        "OCR": [
+            "klefki"
+        ],
+        "Sprite": [
+            "klefki"
+        ]
+    },
+    "klinklang": {
+        "OCR": [
+            "klinklang"
+        ],
+        "Sprite": [
+            "klinklang"
+        ]
+    },
+    "krookodile": {
+        "OCR": [
+            "krookodile"
+        ],
+        "Sprite": [
+            "krookodile"
+        ]
+    },
+    "kyogre": {
+        "OCR": [
+            "kyogre"
+        ],
+        "Sprite": [
+            "kyogre"
+        ]
+    },
+    "kyurem": {
+        "OCR": [
+            "kyurem"
+        ],
+        "Sprite": [
+            "kyurem"
+        ]
+    },
+    "lairon": {
+        "OCR": [
+            "lairon"
+        ],
+        "Sprite": [
+            "lairon"
+        ]
+    },
+    "lampent": {
+        "OCR": [
+            "lampent"
+        ],
+        "Sprite": [
+            "lampent"
+        ]
+    },
+    "landorus-incarnate": {
+        "OCR": [
+            "landorus"
+        ],
+        "Sprite": [
+            "landorus"
+        ]
+    },
+    "lanturn": {
+        "OCR": [
+            "lanturn"
+        ],
+        "Sprite": [
+            "lanturn"
+        ]
+    },
+    "latias": {
+        "OCR": [
+            "latias"
+        ],
+        "Sprite": [
+            "latias"
+        ]
+    },
+    "latios": {
+        "OCR": [
+            "latios"
+        ],
+        "Sprite": [
+            "latios"
+        ]
+    },
+    "lickitung": {
+        "OCR": [
+            "lickitung"
+        ],
+        "Sprite": [
+            "lickitung"
+        ]
+    },
+    "liepard": {
+        "OCR": [
+            "liepard"
+        ],
+        "Sprite": [
+            "liepard"
+        ]
+    },
+    "lilligant": {
+        "OCR": [
+            "lilligant"
+        ],
+        "Sprite": [
+            "lilligant"
+        ]
+    },
+    "linoone": {
+        "OCR": [
+            "linoone"
+        ],
+        "Sprite": [
+            "linoone"
+        ]
+    },
+    "linoone-galar": {
+        "OCR": [
+            "linoone"
+        ],
+        "Sprite": [
+            "linoone-galar"
+        ]
+    },
+    "lopunny": {
+        "OCR": [
+            "lopunny"
+        ],
+        "Sprite": [
+            "lopunny"
+        ]
+    },
+    "lugia": {
+        "OCR": [
+            "lugia"
+        ],
+        "Sprite": [
+            "lugia",
+            "lugia-shadow"
+        ]
+    },
+    "lunala": {
+        "OCR": [
+            "lunala"
+        ],
+        "Sprite": [
+            "lunala"
+        ]
+    },
+    "lurantis": {
+        "OCR": [
+            "lurantis"
+        ],
+        "Sprite": [
+            "lurantis"
+        ]
+    },
+    "luxray": {
+        "OCR": [
+            "luxray"
+        ],
+        "Sprite": [
+            "luxray"
+        ]
+    },
+    "lycanroc-midday": {
+        "OCR": [
+            "lycanroc"
+        ],
+        "Sprite": [
+            "lycanroc"
+        ]
+    },
+    "lycanroc-midnight": {
+        "OCR": [
+            "lycanroc"
+        ],
+        "Sprite": [
+            "lycanroc-midnight"
+        ]
+    },
+    "machoke": {
+        "OCR": [
+            "machoke"
+        ],
+        "Sprite": [
+            "machoke"
+        ]
+    },
+    "magmar": {
+        "OCR": [
+            "magmar"
+        ],
+        "Sprite": [
+            "magmar"
+        ]
+    },
+    "magneton": {
+        "OCR": [
+            "magneton"
+        ],
+        "Sprite": [
+            "magneton"
+        ]
+    },
+    "malamar": {
+        "OCR": [
+            "malamar"
+        ],
+        "Sprite": [
+            "malamar"
+        ]
+    },
+    "manectric": {
+        "OCR": [
+            "manectric"
+        ],
+        "Sprite": [
+            "manectric"
+        ]
+    },
+    "mantine": {
+        "OCR": [
+            "mantine"
+        ],
+        "Sprite": [
+            "mantine"
+        ]
+    },
+    "maractus": {
+        "OCR": [
+            "maractus"
+        ],
+        "Sprite": [
+            "maractus"
+        ]
+    },
+    "marowak": {
+        "OCR": [
+            "marowak"
+        ],
+        "Sprite": [
+            "marowak"
+        ]
+    },
+    "marowak-alola": {
+        "OCR": [
+            "marowak"
+        ],
+        "Sprite": [
+            "marowak-alola"
+        ]
+    },
+    "marshtomp": {
+        "OCR": [
+            "marshtomp"
+        ],
+        "Sprite": [
+            "marshtomp"
+        ]
+    },
+    "mesprit": {
+        "OCR": [
+            "mesprit"
+        ],
+        "Sprite": [
+            "mesprit"
+        ]
+    },
+    "metang": {
+        "OCR": [
+            "metang"
+        ],
+        "Sprite": [
+            "metang"
+        ]
+    },
+    "mewtwo": {
+        "OCR": [
+            "mewtwo"
+        ],
+        "Sprite": [
+            "mewtwo"
+        ]
+    },
+    "mienshao": {
+        "OCR": [
+            "mienshao"
+        ],
+        "Sprite": [
+            "mienshao"
+        ]
+    },
+    "miltank": {
+        "OCR": [
+            "miltank"
+        ],
+        "Sprite": [
+            "miltank"
+        ]
+    },
+    "mimikyu-disguised": {
+        "OCR": [
+            "mimikyu"
+        ],
+        "Sprite": [
+            "mimikyu"
+        ]
+    },
+    "moltres": {
+        "OCR": [
+            "moltres"
+        ],
+        "Sprite": [
+            "moltres"
+        ]
+    },
+    "morpeko": {
+        "OCR": [
+            "morpeko"
+        ],
+        "Sprite": [
+            "morpeko",
+            "morpeko-hangry"
+        ]
+    },
+    "mr-mime": {
+        "OCR": [
+            "mr-mime"
+        ],
+        "Sprite": [
+            "mr-mime"
+        ]
+    },
+    "mr-mime-galar": {
+        "OCR": [
+            "mr-mime"
+        ],
+        "Sprite": [
+            "mr-mime-galar"
+        ]
+    },
+    "mudsdale": {
+        "OCR": [
+            "mudsdale"
+        ],
+        "Sprite": [
+            "mudsdale"
+        ]
+    },
+    "munchlax": {
+        "OCR": [
+            "munchlax"
+        ],
+        "Sprite": [
+            "munchlax"
+        ]
+    },
+    "musharna": {
+        "OCR": [
+            "musharna"
+        ],
+        "Sprite": [
+            "musharna"
+        ]
+    },
+    "necrozma": {
+        "OCR": [
+            "necrozma"
+        ],
+        "Sprite": [
+            "necrozma"
+        ]
+    },
+    "nidoking": {
+        "OCR": [
+            "nidoking"
+        ],
+        "Sprite": [
+            "nidoking"
+        ]
+    },
+    "nidoqueen": {
+        "OCR": [
+            "nidoqueen"
+        ],
+        "Sprite": [
+            "nidoqueen"
+        ]
+    },
+    "nihilego": {
+        "OCR": [
+            "nihilego"
+        ],
+        "Sprite": [
+            "nihilego"
+        ]
+    },
+    "ninjask": {
+        "OCR": [
+            "ninjask"
+        ],
+        "Sprite": [
+            "ninjask"
+        ]
+    },
+    "noctowl": {
+        "OCR": [
+            "noctowl"
+        ],
+        "Sprite": [
+            "noctowl"
+        ]
+    },
+    "obstagoon": {
+        "OCR": [
+            "obstagoon"
+        ],
+        "Sprite": [
+            "obstagoon"
+        ]
+    },
+    "octillery": {
+        "OCR": [
+            "octillery"
+        ],
+        "Sprite": [
+            "octillery"
+        ]
+    },
+    "oranguru": {
+        "OCR": [
+            "oranguru"
+        ],
+        "Sprite": [
+            "oranguru"
+        ]
+    },
+    "orbeetle": {
+        "OCR": [
+            "orbeetle"
+        ],
+        "Sprite": [
+            "orbeetle"
+        ]
+    },
+    "palkia": {
+        "OCR": [
+            "palkia"
+        ],
+        "Sprite": [
+            "palkia"
+        ]
+    },
+    "palossand": {
+        "OCR": [
+            "palossand"
+        ],
+        "Sprite": [
+            "palossand"
+        ]
+    },
+    "palpitoad": {
+        "OCR": [
+            "palpitoad"
+        ],
+        "Sprite": [
+            "palpitoad"
+        ]
+    },
+    "pangoro": {
+        "OCR": [
+            "pangoro"
+        ],
+        "Sprite": [
+            "pangoro"
+        ]
+    },
+    "passimian": {
+        "OCR": [
+            "passimian"
+        ],
+        "Sprite": [
+            "passimian"
+        ]
+    },
+    "pelipper": {
+        "OCR": [
+            "pelipper"
+        ],
+        "Sprite": [
+            "pelipper"
+        ]
+    },
+    "perrserker": {
+        "OCR": [
+            "perrserker"
+        ],
+        "Sprite": [
+            "perrserker"
+        ]
+    },
+    "persian": {
+        "OCR": [
+            "persian"
+        ],
+        "Sprite": [
+            "persian"
+        ]
+    },
+    "persian-alola": {
+        "OCR": [
+            "persian"
+        ],
+        "Sprite": [
+            "persian-alola"
+        ]
+    },
+    "pheromosa": {
+        "OCR": [
+            "pheromosa"
+        ],
+        "Sprite": [
+            "pheromosa"
+        ]
+    },
+    "piloswine": {
+        "OCR": [
+            "piloswine"
+        ],
+        "Sprite": [
+            "piloswine"
+        ]
+    },
+    "pincurchin": {
+        "OCR": [
+            "pincurchin"
+        ],
+        "Sprite": [
+            "pincurchin"
+        ]
+    },
+    "politoed": {
+        "OCR": [
+            "politoed"
+        ],
+        "Sprite": [
+            "politoed"
+        ]
+    },
+    "poliwrath": {
+        "OCR": [
+            "poliwrath"
+        ],
+        "Sprite": [
+            "poliwrath"
+        ]
+    },
+    "polteageist": {
+        "OCR": [
+            "polteageist"
+        ],
+        "Sprite": [
+            "polteageist"
+        ]
+    },
+    "porygon": {
+        "OCR": [
+            "porygon"
+        ],
+        "Sprite": [
+            "porygon"
+        ]
+    },
+    "pyukumuku": {
+        "OCR": [
+            "pyukumuku"
+        ],
+        "Sprite": [
+            "pyukumuku"
+        ]
+    },
+    "quagsire": {
+        "OCR": [
+            "quagsire"
+        ],
+        "Sprite": [
+            "quagsire"
+        ]
+    },
+    "qwilfish": {
+        "OCR": [
+            "qwilfish"
+        ],
+        "Sprite": [
+            "qwilfish"
+        ]
+    },
+    "raichu": {
+        "OCR": [
+            "raichu"
+        ],
+        "Sprite": [
+            "raichu"
+        ]
+    },
+    "raichu-alola": {
+        "OCR": [
+            "raichu"
+        ],
+        "Sprite": [
+            "raichu-alola"
+        ]
+    },
+    "raikou": {
+        "OCR": [
+            "raikou"
+        ],
+        "Sprite": [
+            "raikou"
+        ]
+    },
+    "rayquaza": {
+        "OCR": [
+            "rayquaza"
+        ],
+        "Sprite": [
+            "rayquaza"
+        ]
+    },
+    "relicanth": {
+        "OCR": [
+            "relicanth"
+        ],
+        "Sprite": [
+            "relicanth"
+        ]
+    },
+    "reshiram": {
+        "OCR": [
+            "reshiram"
+        ],
+        "Sprite": [
+            "reshiram"
+        ]
+    },
+    "rhydon": {
+        "OCR": [
+            "rhydon"
+        ],
+        "Sprite": [
+            "rhydon"
+        ]
+    },
+    "ribombee": {
+        "OCR": [
+            "ribombee"
+        ],
+        "Sprite": [
+            "ribombee"
+        ]
+    },
+    "roselia": {
+        "OCR": [
+            "roselia"
+        ],
+        "Sprite": [
+            "roselia"
+        ]
+    },
+    "rotom": {
+        "OCR": [
+            "rotom"
+        ],
+        "Sprite": [
+            "rotom"
+        ]
+    },
+    "salazzle": {
+        "OCR": [
+            "salazzle"
+        ],
+        "Sprite": [
+            "salazzle"
+        ]
+    },
+    "sandaconda": {
+        "OCR": [
+            "sandaconda"
+        ],
+        "Sprite": [
+            "sandaconda"
+        ]
+    },
+    "sandslash": {
+        "OCR": [
+            "sandslash"
+        ],
+        "Sprite": [
+            "sandslash"
+        ]
+    },
+    "sandslash-alola": {
+        "OCR": [
+            "sandslash"
+        ],
+        "Sprite": [
+            "sandslash-alola"
+        ]
+    },
+    "sceptile": {
+        "OCR": [
+            "sceptile"
+        ],
+        "Sprite": [
+            "sceptile"
+        ]
+    },
+    "scolipede": {
+        "OCR": [
+            "scolipede"
+        ],
+        "Sprite": [
+            "scolipede"
+        ]
+    },
+    "scyther": {
+        "OCR": [
+            "scyther"
+        ],
+        "Sprite": [
+            "scyther"
+        ]
+    },
+    "seadra": {
+        "OCR": [
+            "seadra"
+        ],
+        "Sprite": [
+            "seadra"
+        ]
+    },
+    "seaking": {
+        "OCR": [
+            "seaking"
+        ],
+        "Sprite": [
+            "seaking"
+        ]
+    },
+    "sealeo": {
+        "OCR": [
+            "sealeo"
+        ],
+        "Sprite": [
+            "sealeo"
+        ]
+    },
+    "seismitoad": {
+        "OCR": [
+            "seismitoad"
+        ],
+        "Sprite": [
+            "seismitoad"
+        ]
+    },
+    "sharpedo": {
+        "OCR": [
+            "sharpedo"
+        ],
+        "Sprite": [
+            "sharpedo"
+        ]
+    },
+    "shiinotic": {
+        "OCR": [
+            "shiinotic"
+        ],
+        "Sprite": [
+            "shiinotic"
+        ]
+    },
+    "sigilyph": {
+        "OCR": [
+            "sigilyph"
+        ],
+        "Sprite": [
+            "sigilyph"
+        ]
+    },
+    "skarmory": {
+        "OCR": [
+            "skarmory"
+        ],
+        "Sprite": [
+            "skarmory"
+        ]
+    },
+    "skuntank": {
+        "OCR": [
+            "skuntank"
+        ],
+        "Sprite": [
+            "skuntank"
+        ]
+    },
+    "slowbro": {
+        "OCR": [
+            "slowbro"
+        ],
+        "Sprite": [
+            "slowbro"
+        ]
+    },
+    "slowking": {
+        "OCR": [
+            "slowking"
+        ],
+        "Sprite": [
+            "slowking"
+        ]
+    },
+    "sneasel": {
+        "OCR": [
+            "sneasel"
+        ],
+        "Sprite": [
+            "sneasel"
+        ]
+    },
+    "solgaleo": {
+        "OCR": [
+            "solgaleo"
+        ],
+        "Sprite": [
+            "solgaleo"
+        ]
+    },
+    "stakataka": {
+        "OCR": [
+            "stakataka"
+        ],
+        "Sprite": [
+            "stakataka"
+        ]
+    },
+    "starmie": {
+        "OCR": [
+            "starmie"
+        ],
+        "Sprite": [
+            "starmie"
+        ]
+    },
+    "stoutland": {
+        "OCR": [
+            "stoutland"
+        ],
+        "Sprite": [
+            "stoutland"
+        ]
+    },
+    "stunfisk": {
+        "OCR": [
+            "stunfisk"
+        ],
+        "Sprite": [
+            "stunfisk"
+        ]
+    },
+    "stunfisk-galar": {
+        "OCR": [
+            "stunfisk"
+        ],
+        "Sprite": [
+            "stunfisk-galar"
+        ]
+    },
+    "sudowoodo": {
+        "OCR": [
+            "sudowoodo"
+        ],
+        "Sprite": [
+            "sudowoodo"
+        ]
+    },
+    "suicune": {
+        "OCR": [
+            "suicune"
+        ],
+        "Sprite": [
+            "suicune"
+        ]
+    },
+    "swampert": {
+        "OCR": [
+            "swampert"
+        ],
+        "Sprite": [
+            "swampert"
+        ]
+    },
+    "swoobat": {
+        "OCR": [
+            "swoobat"
+        ],
+        "Sprite": [
+            "swoobat"
+        ]
+    },
+    "talonflame": {
+        "OCR": [
+            "talonflame"
+        ],
+        "Sprite": [
+            "talonflame"
+        ]
+    },
+    "tangela": {
+        "OCR": [
+            "tangela"
+        ],
+        "Sprite": [
+            "tangela"
+        ]
+    },
+    "tapu-bulu": {
+        "OCR": [
+            "tapu-bulu"
+        ],
+        "Sprite": [
+            "tapu-bulu"
+        ]
+    },
+    "tapu-fini": {
+        "OCR": [
+            "tapu-fini"
+        ],
+        "Sprite": [
+            "tapu-fini"
+        ]
+    },
+    "tapu-koko": {
+        "OCR": [
+            "tapu-koko"
+        ],
+        "Sprite": [
+            "tapu-koko"
+        ]
+    },
+    "tapu-lele": {
+        "OCR": [
+            "tapu-lele"
+        ],
+        "Sprite": [
+            "tapu-lele"
+        ]
+    },
+    "tauros": {
+        "OCR": [
+            "tauros"
+        ],
+        "Sprite": [
+            "tauros"
+        ]
+    },
+    "tentacruel": {
+        "OCR": [
+            "tentacruel"
+        ],
+        "Sprite": [
+            "tentacruel"
+        ]
+    },
+    "thievul": {
+        "OCR": [
+            "thievul"
+        ],
+        "Sprite": [
+            "thievul"
+        ]
+    },
+    "thundurus-incarnate": {
+        "OCR": [
+            "thundurus"
+        ],
+        "Sprite": [
+            "thundurus"
+        ]
+    },
+    "togedemaru": {
+        "OCR": [
+            "togedemaru"
+        ],
+        "Sprite": [
+            "togedemaru"
+        ]
+    },
+    "togetic": {
+        "OCR": [
+            "togetic"
+        ],
+        "Sprite": [
+            "togetic"
+        ]
+    },
+    "torkoal": {
+        "OCR": [
+            "torkoal"
+        ],
+        "Sprite": [
+            "torkoal"
+        ]
+    },
+    "tornadus-incarnate": {
+        "OCR": [
+            "tornadus"
+        ],
+        "Sprite": [
+            "tornadus"
+        ]
+    },
+    "toxtricity-amped": {
+        "OCR": [
+            "toxtricity"
+        ],
+        "Sprite": [
+            "toxtricity"
+        ]
+    },
+    "trevenant": {
+        "OCR": [
+            "trevenant"
+        ],
+        "Sprite": [
+            "trevenant"
+        ]
+    },
+    "tsareena": {
+        "OCR": [
+            "tsareena"
+        ],
+        "Sprite": [
+            "tsareena"
+        ]
+    },
+    "tyrantrum": {
+        "OCR": [
+            "tyrantrum"
+        ],
+        "Sprite": [
+            "tyrantrum"
+        ]
+    },
+    "unfezant": {
+        "OCR": [
+            "unfezant"
+        ],
+        "Sprite": [
+            "unfezant", "unfezant-f"
+        ]
+    },
+    "uxie": {
+        "OCR": [
+            "uxie"
+        ],
+        "Sprite": [
+            "uxie"
+        ]
+    },
+    "vanillish": {
+        "OCR": [
+            "vanillish"
+        ],
+        "Sprite": [
+            "vanillish"
+        ]
+    },
+    "vaporeon": {
+        "OCR": [
+            "vaporeon"
+        ],
+        "Sprite": [
+            "vaporeon"
+        ]
+    },
+    "vespiquen": {
+        "OCR": [
+            "vespiquen"
+        ],
+        "Sprite": [
+            "vespiquen"
+        ]
+    },
+    "vikavolt": {
+        "OCR": [
+            "vikavolt"
+        ],
+        "Sprite": [
+            "vikavolt"
+        ]
+    },
+    "vileplume": {
+        "OCR": [
+            "vileplume"
+        ],
+        "Sprite": [
+            "vileplume"
+        ]
+    },
+    "wailmer": {
+        "OCR": [
+            "wailmer"
+        ],
+        "Sprite": [
+            "wailmer"
+        ]
+    },
+    "wartortle": {
+        "OCR": [
+            "wartortle"
+        ],
+        "Sprite": [
+            "wartortle"
+        ]
+    },
+    "weezing": {
+        "OCR": [
+            "weezing"
+        ],
+        "Sprite": [
+            "weezing"
+        ]
+    },
+    "weezing-galar": {
+        "OCR": [
+            "weezing"
+        ],
+        "Sprite": [
+            "weezing-galar"
+        ]
+    },
+    "whimsicott": {
+        "OCR": [
+            "whimsicott"
+        ],
+        "Sprite": [
+            "whimsicott"
+        ]
+    },
+    "whiscash": {
+        "OCR": [
+            "whiscash"
+        ],
+        "Sprite": [
+            "whiscash"
+        ]
+    },
+    "wigglytuff": {
+        "OCR": [
+            "wigglytuff"
+        ],
+        "Sprite": [
+            "wigglytuff"
+        ]
+    },
+    "xatu": {
+        "OCR": [
+            "xatu"
+        ],
+        "Sprite": [
+            "xatu"
+        ]
+    },
+    "xerneas": {
+        "OCR": [
+            "xerneas"
+        ],
+        "Sprite": [
+            "xerneas"
+        ]
+    },
+    "xurkitree": {
+        "OCR": [
+            "xurkitree"
+        ],
+        "Sprite": [
+            "xurkitree"
+        ]
+    },
+    "yveltal": {
+        "OCR": [
+            "yveltal"
+        ],
+        "Sprite": [
+            "yveltal"
+        ]
+    },
+    "zapdos": {
+        "OCR": [
+            "zapdos"
+        ],
+        "Sprite": [
+            "zapdos"
+        ]
+    },
+    "zekrom": {
+        "OCR": [
+            "zekrom"
+        ],
+        "Sprite": [
+            "zekrom"
+        ]
+    },
+    "zygarde-50": {
+        "OCR": [
+            "zygarde"
+        ],
+        "Sprite": [
+            "zygarde"
+        ]
+    }
+}

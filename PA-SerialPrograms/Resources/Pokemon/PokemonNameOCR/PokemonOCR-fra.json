@@ -1,0 +1,2697 @@
+﻿{
+    "abomasnow": [
+        "Blizzaroi"
+    ],
+    "abra": [
+        "Abra"
+    ],
+    "absol": [
+        "Absol"
+    ],
+    "accelgor": [
+        "Limaspeed"
+    ],
+    "aegislash": [
+        "Exagide"
+    ],
+    "aerodactyl": [
+        "Ptéra"
+    ],
+    "aggron": [
+        "Galeking"
+    ],
+    "aipom": [
+        "Capumain"
+    ],
+    "alakazam": [
+        "Alakazam"
+    ],
+    "alcremie": [
+        "Charmilly"
+    ],
+    "alomomola": [
+        "Mamanbo"
+    ],
+    "altaria": [
+        "Altaria"
+    ],
+    "amaura": [
+        "Amagara"
+    ],
+    "ambipom": [
+        "Capidextre"
+    ],
+    "amoonguss": [
+        "Gaulet"
+    ],
+    "ampharos": [
+        "Pharamp"
+    ],
+    "anorith": [
+        "Anorith"
+    ],
+    "appletun": [
+        "Dratatin"
+    ],
+    "applin": [
+        "Verpom"
+    ],
+    "araquanid": [
+        "Tarenbulle"
+    ],
+    "arbok": [
+        "Arbok"
+    ],
+    "arcanine": [
+        "Arcanin"
+    ],
+    "arceus": [
+        "Arceus"
+    ],
+    "archen": [
+        "Arkéapti"
+    ],
+    "archeops": [
+        "Aéroptéryx"
+    ],
+    "arctovish": [
+        "Hydragla"
+    ],
+    "arctozolt": [
+        "Galvagla"
+    ],
+    "ariados": [
+        "Migalos"
+    ],
+    "armaldo": [
+        "Armaldo"
+    ],
+    "aromatisse": [
+        "Cocotine"
+    ],
+    "aron": [
+        "Galekid"
+    ],
+    "arrokuda": [
+        "Embrochet"
+    ],
+    "articuno": [
+        "Artikodin"
+    ],
+    "audino": [
+        "Nanméouïe"
+    ],
+    "aurorus": [
+        "Dragmara"
+    ],
+    "avalugg": [
+        "Séracrawl"
+    ],
+    "axew": [
+        "Coupenotte"
+    ],
+    "azelf": [
+        "Créfadet"
+    ],
+    "azumarill": [
+        "Azumarill"
+    ],
+    "azurill": [
+        "Azurill"
+    ],
+    "bagon": [
+        "Draby"
+    ],
+    "baltoy": [
+        "Balbuto"
+    ],
+    "banette": [
+        "Branette"
+    ],
+    "barbaracle": [
+        "Golgopathe"
+    ],
+    "barboach": [
+        "Barloche"
+    ],
+    "barraskewda": [
+        "Hastacuda"
+    ],
+    "basculin": [
+        "Bargantua"
+    ],
+    "bastiodon": [
+        "Bastiodon"
+    ],
+    "bayleef": [
+        "Macronium"
+    ],
+    "beartic": [
+        "Polagriffe"
+    ],
+    "beautifly": [
+        "Charmillon"
+    ],
+    "beedrill": [
+        "Dardargnan"
+    ],
+    "beheeyem": [
+        "Neitram"
+    ],
+    "beldum": [
+        "Terhal"
+    ],
+    "bellossom": [
+        "Joliflor"
+    ],
+    "bellsprout": [
+        "Chétiflor"
+    ],
+    "bergmite": [
+        "Grelaçon"
+    ],
+    "bewear": [
+        "Chelours"
+    ],
+    "bibarel": [
+        "Castorno"
+    ],
+    "bidoof": [
+        "Keunotor"
+    ],
+    "binacle": [
+        "Opermine"
+    ],
+    "bisharp": [
+        "Scalproie"
+    ],
+    "blacephalon": [
+        "Pierroteknik"
+    ],
+    "blastoise": [
+        "Tortank"
+    ],
+    "blaziken": [
+        "Braségali"
+    ],
+    "blipbug": [
+        "Larvadar"
+    ],
+    "blissey": [
+        "Leuphorie"
+    ],
+    "blitzle": [
+        "Zébibron"
+    ],
+    "boldore": [
+        "Géolithe"
+    ],
+    "boltund": [
+        "Fulgudog"
+    ],
+    "bonsly": [
+        "Manzaï"
+    ],
+    "bouffalant": [
+        "Frison"
+    ],
+    "bounsweet": [
+        "Croquine"
+    ],
+    "braixen": [
+        "Roussil"
+    ],
+    "braviary": [
+        "Gueriaigle"
+    ],
+    "breloom": [
+        "Chapignon"
+    ],
+    "brionne": [
+        "Otarlette"
+    ],
+    "bronzong": [
+        "Archéodong"
+    ],
+    "bronzor": [
+        "Archéomire"
+    ],
+    "bruxish": [
+        "Denticrisse"
+    ],
+    "budew": [
+        "Rozbouton"
+    ],
+    "buizel": [
+        "Mustébouée"
+    ],
+    "bulbasaur": [
+        "Bulbizarre"
+    ],
+    "buneary": [
+        "Laporeille"
+    ],
+    "bunnelby": [
+        "Sapereau"
+    ],
+    "burmy": [
+        "Cheniti"
+    ],
+    "butterfree": [
+        "Papilusion"
+    ],
+    "buzzwole": [
+        "Mouscoto"
+    ],
+    "cacnea": [
+        "Cacnea"
+    ],
+    "cacturne": [
+        "Cacturne"
+    ],
+    "calyrex": [
+        "Sylveroy"
+    ],
+    "camerupt": [
+        "Camérupt"
+    ],
+    "carbink": [
+        "Strassie"
+    ],
+    "carkol": [
+        "Wagomine"
+    ],
+    "carnivine": [
+        "Vortente"
+    ],
+    "carracosta": [
+        "Mégapagos"
+    ],
+    "carvanha": [
+        "Carvanha"
+    ],
+    "cascoon": [
+        "Blindalys"
+    ],
+    "castform": [
+        "Morphéo"
+    ],
+    "caterpie": [
+        "Chenipan"
+    ],
+    "celebi": [
+        "Celebi"
+    ],
+    "celesteela": [
+        "Bamboiselle"
+    ],
+    "centiskorch": [
+        "Scolocendre"
+    ],
+    "chandelure": [
+        "Lugulabre"
+    ],
+    "chansey": [
+        "Leveinard"
+    ],
+    "charizard": [
+        "Dracaufeu"
+    ],
+    "charjabug": [
+        "Chrysapile"
+    ],
+    "charmander": [
+        "Salamèche"
+    ],
+    "charmeleon": [
+        "Reptincel"
+    ],
+    "chatot": [
+        "Pijako"
+    ],
+    "cherrim": [
+        "Ceriflor"
+    ],
+    "cherubi": [
+        "Ceribou"
+    ],
+    "chesnaught": [
+        "Blindépique"
+    ],
+    "chespin": [
+        "Marisson"
+    ],
+    "chewtle": [
+        "Khélocrok"
+    ],
+    "chikorita": [
+        "Germignon"
+    ],
+    "chimchar": [
+        "Ouisticram"
+    ],
+    "chimecho": [
+        "Éoko"
+    ],
+    "chinchou": [
+        "Loupio"
+    ],
+    "chingling": [
+        "Korillon"
+    ],
+    "cinccino": [
+        "Pashmilla"
+    ],
+    "cinderace": [
+        "Pyrobut"
+    ],
+    "clamperl": [
+        "Coquiperl"
+    ],
+    "clauncher": [
+        "Flingouste"
+    ],
+    "clawitzer": [
+        "Gamblast"
+    ],
+    "claydol": [
+        "Kaorine"
+    ],
+    "clefable": [
+        "Mélodelfe"
+    ],
+    "clefairy": [
+        "Mélofée"
+    ],
+    "cleffa": [
+        "Mélo"
+    ],
+    "clobbopus": [
+        "Poulpaf"
+    ],
+    "cloyster": [
+        "Crustabri"
+    ],
+    "coalossal": [
+        "Monthracite"
+    ],
+    "cobalion": [
+        "Cobaltium"
+    ],
+    "cofagrigus": [
+        "Tutankafer"
+    ],
+    "combee": [
+        "Apitrini"
+    ],
+    "combusken": [
+        "Galifeu"
+    ],
+    "comfey": [
+        "Guérilande"
+    ],
+    "conkeldurr": [
+        "Bétochef"
+    ],
+    "copperajah": [
+        "Pachyradjah"
+    ],
+    "corphish": [
+        "Écrapince"
+    ],
+    "corsola": [
+        "Corayon"
+    ],
+    "corviknight": [
+        "Corvaillus"
+    ],
+    "corvisquire": [
+        "Bleuseille"
+    ],
+    "cosmoem": [
+        "Cosmovum"
+    ],
+    "cosmog": [
+        "Cosmog"
+    ],
+    "cottonee": [
+        "Doudouvet"
+    ],
+    "crabominable": [
+        "Crabominable"
+    ],
+    "crabrawler": [
+        "Crabagarre"
+    ],
+    "cradily": [
+        "Vacilys"
+    ],
+    "cramorant": [
+        "Nigosier"
+    ],
+    "cranidos": [
+        "Kranidos"
+    ],
+    "crawdaunt": [
+        "Colhomard"
+    ],
+    "cresselia": [
+        "Cresselia"
+    ],
+    "croagunk": [
+        "Cradopaud"
+    ],
+    "crobat": [
+        "Nostenfer"
+    ],
+    "croconaw": [
+        "Crocrodil"
+    ],
+    "crustle": [
+        "Crabaraque"
+    ],
+    "cryogonal": [
+        "Hexagel"
+    ],
+    "cubchoo": [
+        "Polarhume"
+    ],
+    "cubone": [
+        "Osselait"
+    ],
+    "cufant": [
+        "Charibari"
+    ],
+    "cursola": [
+        "Corayôme"
+    ],
+    "cutiefly": [
+        "Bombydou"
+    ],
+    "cyndaquil": [
+        "Héricendre"
+    ],
+    "darkrai": [
+        "Darkrai"
+    ],
+    "darmanitan": [
+        "Darumacho"
+    ],
+    "dartrix": [
+        "Efflèche"
+    ],
+    "darumaka": [
+        "Darumarond"
+    ],
+    "decidueye": [
+        "Archéduc"
+    ],
+    "dedenne": [
+        "Dedenne"
+    ],
+    "deerling": [
+        "Vivaldaim"
+    ],
+    "deino": [
+        "Solochi"
+    ],
+    "delcatty": [
+        "Delcatty"
+    ],
+    "delibird": [
+        "Cadoizo"
+    ],
+    "delphox": [
+        "Goupelin"
+    ],
+    "deoxys": [
+        "Deoxys"
+    ],
+    "dewgong": [
+        "Lamantine"
+    ],
+    "dewott": [
+        "Mateloutre"
+    ],
+    "dewpider": [
+        "Araqua"
+    ],
+    "dhelmise": [
+        "Sinistrail"
+    ],
+    "dialga": [
+        "Dialga"
+    ],
+    "diancie": [
+        "Diancie"
+    ],
+    "diggersby": [
+        "Excavarenne"
+    ],
+    "diglett": [
+        "Taupiqueur"
+    ],
+    "ditto": [
+        "Métamorph"
+    ],
+    "dodrio": [
+        "Dodrio"
+    ],
+    "doduo": [
+        "Doduo"
+    ],
+    "donphan": [
+        "Donphan"
+    ],
+    "dottler": [
+        "Coléodôme"
+    ],
+    "doublade": [
+        "Dimoclès"
+    ],
+    "dracovish": [
+        "Hydragon"
+    ],
+    "dracozolt": [
+        "Galvagon"
+    ],
+    "dragalge": [
+        "Kravarech"
+    ],
+    "dragapult": [
+        "Lanssorien"
+    ],
+    "dragonair": [
+        "Draco"
+    ],
+    "dragonite": [
+        "Dracolosse"
+    ],
+    "drakloak": [
+        "Dispareptil"
+    ],
+    "drampa": [
+        "Draïeul"
+    ],
+    "drapion": [
+        "Drascore"
+    ],
+    "dratini": [
+        "Minidraco"
+    ],
+    "drednaw": [
+        "Torgamord"
+    ],
+    "dreepy": [
+        "Fantyrm"
+    ],
+    "drifblim": [
+        "Grodrive"
+    ],
+    "drifloon": [
+        "Baudrive"
+    ],
+    "drilbur": [
+        "Rototaupe"
+    ],
+    "drizzile": [
+        "Arrozard"
+    ],
+    "drowzee": [
+        "Soporifik"
+    ],
+    "druddigon": [
+        "Drakkarmin"
+    ],
+    "dubwool": [
+        "Moumouflon"
+    ],
+    "ducklett": [
+        "Couaneton"
+    ],
+    "dugtrio": [
+        "Triopikeur"
+    ],
+    "dunsparce": [
+        "Insolourdo"
+    ],
+    "duosion": [
+        "Méios"
+    ],
+    "duraludon": [
+        "Duralugon"
+    ],
+    "durant": [
+        "Fermite"
+    ],
+    "dusclops": [
+        "Téraclope"
+    ],
+    "dusknoir": [
+        "Noctunoir"
+    ],
+    "duskull": [
+        "Skelénox"
+    ],
+    "dustox": [
+        "Papinox"
+    ],
+    "dwebble": [
+        "Crabicoque"
+    ],
+    "eelektrik": [
+        "Lampéroie"
+    ],
+    "eelektross": [
+        "Ohmassacre"
+    ],
+    "eevee": [
+        "Évoli"
+    ],
+    "eiscue": [
+        "Bekaglaçon"
+    ],
+    "ekans": [
+        "Abo"
+    ],
+    "eldegoss": [
+        "Blancoton"
+    ],
+    "electabuzz": [
+        "Élektek"
+    ],
+    "electivire": [
+        "Élekable"
+    ],
+    "electrike": [
+        "Dynavolt"
+    ],
+    "electrode": [
+        "Électrode"
+    ],
+    "elekid": [
+        "Élekid"
+    ],
+    "elgyem": [
+        "Lewsor"
+    ],
+    "emboar": [
+        "Roitiflam"
+    ],
+    "emolga": [
+        "Emolga"
+    ],
+    "empoleon": [
+        "Pingoléon"
+    ],
+    "entei": [
+        "Entei"
+    ],
+    "escavalier": [
+        "Lançargot"
+    ],
+    "espeon": [
+        "Mentali"
+    ],
+    "espurr": [
+        "Psystigri"
+    ],
+    "eternatus": [
+        "Éthernatos"
+    ],
+    "excadrill": [
+        "Minotaupe"
+    ],
+    "exeggcute": [
+        "Noeunoeuf"
+    ],
+    "exeggutor": [
+        "Noadkoko"
+    ],
+    "exploud": [
+        "Brouhabam"
+    ],
+    "falinks": [
+        "Hexadron"
+    ],
+    "farfetch-d": [
+        "Canarticho"
+    ],
+    "fearow": [
+        "Rapasdepic"
+    ],
+    "feebas": [
+        "Barpau"
+    ],
+    "fennekin": [
+        "Feunnec"
+    ],
+    "feraligatr": [
+        "Aligatueur"
+    ],
+    "ferroseed": [
+        "Grindur"
+    ],
+    "ferrothorn": [
+        "Noacier"
+    ],
+    "finneon": [
+        "Écayon"
+    ],
+    "flaaffy": [
+        "Lainergie"
+    ],
+    "flabebe": [
+        "Flabébé"
+    ],
+    "flapple": [
+        "Pomdrapi"
+    ],
+    "flareon": [
+        "Pyroli"
+    ],
+    "fletchinder": [
+        "Braisillon"
+    ],
+    "fletchling": [
+        "Passerouge"
+    ],
+    "floatzel": [
+        "Mustéflott"
+    ],
+    "floette": [
+        "Floette"
+    ],
+    "florges": [
+        "Florges"
+    ],
+    "flygon": [
+        "Libégon"
+    ],
+    "fomantis": [
+        "Mimantis"
+    ],
+    "foongus": [
+        "Trompignon"
+    ],
+    "forretress": [
+        "Foretress"
+    ],
+    "fraxure": [
+        "Incisache"
+    ],
+    "frillish": [
+        "Viskuse"
+    ],
+    "froakie": [
+        "Grenousse"
+    ],
+    "frogadier": [
+        "Croâporal"
+    ],
+    "froslass": [
+        "Momartik"
+    ],
+    "frosmoth": [
+        "Beldeneige"
+    ],
+    "furfrou": [
+        "Couafarel"
+    ],
+    "furret": [
+        "Fouinar"
+    ],
+    "gabite": [
+        "Carmache"
+    ],
+    "gallade": [
+        "Gallame"
+    ],
+    "galvantula": [
+        "Mygavolt"
+    ],
+    "garbodor": [
+        "Miasmax"
+    ],
+    "garchomp": [
+        "Carchacrok"
+    ],
+    "gardevoir": [
+        "Gardevoir"
+    ],
+    "gastly": [
+        "Fantominus"
+    ],
+    "gastrodon": [
+        "Tritosor"
+    ],
+    "genesect": [
+        "Genesect"
+    ],
+    "gengar": [
+        "Ectoplasma"
+    ],
+    "geodude": [
+        "Racaillou"
+    ],
+    "gible": [
+        "Griknot"
+    ],
+    "gigalith": [
+        "Gigalithe"
+    ],
+    "girafarig": [
+        "Girafarig"
+    ],
+    "giratina": [
+        "Giratina"
+    ],
+    "glaceon": [
+        "Givrali"
+    ],
+    "glalie": [
+        "Oniglali"
+    ],
+    "glameow": [
+        "Chaglam"
+    ],
+    "glastrier": [
+        "Blizzeval"
+    ],
+    "gligar": [
+        "Scorplane"
+    ],
+    "gliscor": [
+        "Scorvol"
+    ],
+    "gloom": [
+        "Ortide"
+    ],
+    "gogoat": [
+        "Chevroum"
+    ],
+    "golbat": [
+        "Nosferalto"
+    ],
+    "goldeen": [
+        "Poissirène"
+    ],
+    "golduck": [
+        "Akwakwak"
+    ],
+    "golem": [
+        "Grolem"
+    ],
+    "golett": [
+        "Gringolem"
+    ],
+    "golisopod": [
+        "Sarmuraï"
+    ],
+    "golurk": [
+        "Golemastoc"
+    ],
+    "goodra": [
+        "Muplodocus"
+    ],
+    "goomy": [
+        "Mucuscule"
+    ],
+    "gorebyss": [
+        "Rosabyss"
+    ],
+    "gossifleur": [
+        "Tournicoton"
+    ],
+    "gothita": [
+        "Scrutella"
+    ],
+    "gothitelle": [
+        "Sidérella"
+    ],
+    "gothorita": [
+        "Mesmérella"
+    ],
+    "gourgeist": [
+        "Banshitrouye"
+    ],
+    "granbull": [
+        "Granbull"
+    ],
+    "grapploct": [
+        "Krakos"
+    ],
+    "graveler": [
+        "Gravalanch"
+    ],
+    "greedent": [
+        "Rongrigou"
+    ],
+    "greninja": [
+        "Amphinobi"
+    ],
+    "grimer": [
+        "Tadmorv"
+    ],
+    "grimmsnarl": [
+        "Angoliath"
+    ],
+    "grookey": [
+        "Ouistempo"
+    ],
+    "grotle": [
+        "Boskara"
+    ],
+    "groudon": [
+        "Groudon"
+    ],
+    "grovyle": [
+        "Massko"
+    ],
+    "growlithe": [
+        "Caninos"
+    ],
+    "grubbin": [
+        "Larvibule"
+    ],
+    "grumpig": [
+        "Groret"
+    ],
+    "gulpin": [
+        "Gloupti"
+    ],
+    "gumshoos": [
+        "Argouste"
+    ],
+    "gurdurr": [
+        "Ouvrifier"
+    ],
+    "guzzlord": [
+        "Engloutyran"
+    ],
+    "gyarados": [
+        "Léviator"
+    ],
+    "hakamo-o": [
+        "Écaïd"
+    ],
+    "happiny": [
+        "Ptiravi"
+    ],
+    "hariyama": [
+        "Hariyama"
+    ],
+    "hatenna": [
+        "Bibichut"
+    ],
+    "hatterene": [
+        "Sorcilence"
+    ],
+    "hattrem": [
+        "Chapotus"
+    ],
+    "haunter": [
+        "Spectrum"
+    ],
+    "hawlucha": [
+        "Brutalibré"
+    ],
+    "haxorus": [
+        "Tranchodon"
+    ],
+    "heatmor": [
+        "Aflamanoir"
+    ],
+    "heatran": [
+        "Heatran"
+    ],
+    "heliolisk": [
+        "Iguolta"
+    ],
+    "helioptile": [
+        "Galvaran"
+    ],
+    "heracross": [
+        "Scarhino"
+    ],
+    "herdier": [
+        "Ponchien"
+    ],
+    "hippopotas": [
+        "Hippopotas"
+    ],
+    "hippowdon": [
+        "Hippodocus"
+    ],
+    "hitmonchan": [
+        "Tygnon"
+    ],
+    "hitmonlee": [
+        "Kicklee"
+    ],
+    "hitmontop": [
+        "Kapoera"
+    ],
+    "ho-oh": [
+        "Ho-Oh"
+    ],
+    "honchkrow": [
+        "Corboss"
+    ],
+    "honedge": [
+        "Monorpale"
+    ],
+    "hoopa": [
+        "Hoopa"
+    ],
+    "hoothoot": [
+        "Hoothoot"
+    ],
+    "hoppip": [
+        "Granivol"
+    ],
+    "horsea": [
+        "Hypotrempe"
+    ],
+    "houndoom": [
+        "Démolosse"
+    ],
+    "houndour": [
+        "Malosse"
+    ],
+    "huntail": [
+        "Serpang"
+    ],
+    "hydreigon": [
+        "Trioxhydre"
+    ],
+    "hypno": [
+        "Hypnomade"
+    ],
+    "igglybuff": [
+        "Toudoudou"
+    ],
+    "illumise": [
+        "Lumivole"
+    ],
+    "impidimp": [
+        "Grimalin"
+    ],
+    "incineroar": [
+        "Félinferno"
+    ],
+    "indeedee": [
+        "Wimessir"
+    ],
+    "infernape": [
+        "Simiabraz"
+    ],
+    "inkay": [
+        "Sepiatop"
+    ],
+    "inteleon": [
+        "Lézargus"
+    ],
+    "ivysaur": [
+        "Herbizarre"
+    ],
+    "jangmo-o": [
+        "Bébécaille"
+    ],
+    "jellicent": [
+        "Moyade"
+    ],
+    "jigglypuff": [
+        "Rondoudou"
+    ],
+    "jirachi": [
+        "Jirachi"
+    ],
+    "jolteon": [
+        "Voltali"
+    ],
+    "joltik": [
+        "Statitik"
+    ],
+    "jumpluff": [
+        "Cotovol"
+    ],
+    "jynx": [
+        "Lippoutou"
+    ],
+    "kabuto": [
+        "Kabuto"
+    ],
+    "kabutops": [
+        "Kabutops"
+    ],
+    "kadabra": [
+        "Kadabra"
+    ],
+    "kakuna": [
+        "Coconfort"
+    ],
+    "kangaskhan": [
+        "Kangourex"
+    ],
+    "karrablast": [
+        "Carabing"
+    ],
+    "kartana": [
+        "Katagami"
+    ],
+    "kecleon": [
+        "Kecleon"
+    ],
+    "keldeo": [
+        "Keldeo"
+    ],
+    "kingdra": [
+        "Hyporoi"
+    ],
+    "kingler": [
+        "Krabboss"
+    ],
+    "kirlia": [
+        "Kirlia"
+    ],
+    "klang": [
+        "Clic"
+    ],
+    "klefki": [
+        "Trousselin"
+    ],
+    "klink": [
+        "Tic",
+        "t1e"
+    ],
+    "klinklang": [
+        "Cliticlic"
+    ],
+    "koffing": [
+        "Smogo"
+    ],
+    "komala": [
+        "Dodoala"
+    ],
+    "kommo-o": [
+        "Ékaïser"
+    ],
+    "krabby": [
+        "Krabby"
+    ],
+    "kricketot": [
+        "Crikzik"
+    ],
+    "kricketune": [
+        "Mélokrik"
+    ],
+    "krokorok": [
+        "Escroco"
+    ],
+    "krookodile": [
+        "Crocorible"
+    ],
+    "kubfu": [
+        "Wushours"
+    ],
+    "kyogre": [
+        "Kyogre"
+    ],
+    "kyurem": [
+        "Kyurem"
+    ],
+    "lairon": [
+        "Galegon"
+    ],
+    "lampent": [
+        "Mélancolux"
+    ],
+    "landorus": [
+        "Démétéros"
+    ],
+    "lanturn": [
+        "Lanturn"
+    ],
+    "lapras": [
+        "Lokhlass"
+    ],
+    "larvesta": [
+        "Pyronille"
+    ],
+    "larvitar": [
+        "Embrylex"
+    ],
+    "latias": [
+        "Latias"
+    ],
+    "latios": [
+        "Latios"
+    ],
+    "leafeon": [
+        "Phyllali"
+    ],
+    "leavanny": [
+        "Manternel"
+    ],
+    "ledian": [
+        "Coxyclaque"
+    ],
+    "ledyba": [
+        "Coxy"
+    ],
+    "lickilicky": [
+        "Coudlangue"
+    ],
+    "lickitung": [
+        "Excelangue"
+    ],
+    "liepard": [
+        "Léopardus"
+    ],
+    "lileep": [
+        "Lilia"
+    ],
+    "lilligant": [
+        "Fragilady"
+    ],
+    "lillipup": [
+        "Ponchiot"
+    ],
+    "linoone": [
+        "Linéon"
+    ],
+    "litleo": [
+        "Hélionceau"
+    ],
+    "litten": [
+        "Flamiaou"
+    ],
+    "litwick": [
+        "Funécire"
+    ],
+    "lombre": [
+        "Lombre"
+    ],
+    "lopunny": [
+        "Lockpin"
+    ],
+    "lotad": [
+        "Nénupiot"
+    ],
+    "loudred": [
+        "Ramboum"
+    ],
+    "lucario": [
+        "Lucario"
+    ],
+    "ludicolo": [
+        "Ludicolo"
+    ],
+    "lugia": [
+        "Lugia"
+    ],
+    "lumineon": [
+        "Luminéon"
+    ],
+    "lunala": [
+        "Lunala"
+    ],
+    "lunatone": [
+        "Séléroc"
+    ],
+    "lurantis": [
+        "Floramantis"
+    ],
+    "luvdisc": [
+        "Lovdisc"
+    ],
+    "luxio": [
+        "Luxio"
+    ],
+    "luxray": [
+        "Luxray"
+    ],
+    "lycanroc": [
+        "Lougaroc"
+    ],
+    "machamp": [
+        "Mackogneur"
+    ],
+    "machoke": [
+        "Machopeur"
+    ],
+    "machop": [
+        "Machoc"
+    ],
+    "magby": [
+        "Magby"
+    ],
+    "magcargo": [
+        "Volcaropod"
+    ],
+    "magearna": [
+        "Magearna"
+    ],
+    "magikarp": [
+        "Magicarpe"
+    ],
+    "magmar": [
+        "Magmar"
+    ],
+    "magmortar": [
+        "Maganon"
+    ],
+    "magnemite": [
+        "Magnéti"
+    ],
+    "magneton": [
+        "Magnéton"
+    ],
+    "magnezone": [
+        "Magnézone"
+    ],
+    "makuhita": [
+        "Makuhita"
+    ],
+    "malamar": [
+        "Sepiatroce"
+    ],
+    "mamoswine": [
+        "Mammochon"
+    ],
+    "manaphy": [
+        "Manaphy"
+    ],
+    "mandibuzz": [
+        "Vaututrice"
+    ],
+    "manectric": [
+        "Élecsprint"
+    ],
+    "mankey": [
+        "Férosinge"
+    ],
+    "mantine": [
+        "Démanta"
+    ],
+    "mantyke": [
+        "Babimanta"
+    ],
+    "maractus": [
+        "Maracachi"
+    ],
+    "mareanie": [
+        "Vorastérie"
+    ],
+    "mareep": [
+        "Wattouat"
+    ],
+    "marill": [
+        "Marill"
+    ],
+    "marowak": [
+        "Ossatueur"
+    ],
+    "marshadow": [
+        "Marshadow"
+    ],
+    "marshtomp": [
+        "Flobio"
+    ],
+    "masquerain": [
+        "Maskadra"
+    ],
+    "mawile": [
+        "Mysdibule"
+    ],
+    "medicham": [
+        "Charmina"
+    ],
+    "meditite": [
+        "Méditikka"
+    ],
+    "meganium": [
+        "Méganium"
+    ],
+    "melmetal": [
+        "Melmetal"
+    ],
+    "meloetta": [
+        "Meloetta"
+    ],
+    "meltan": [
+        "Meltan"
+    ],
+    "meowstic": [
+        "Mistigrix"
+    ],
+    "meowth": [
+        "Miaouss"
+    ],
+    "mesprit": [
+        "Créfollet"
+    ],
+    "metagross": [
+        "Métalosse"
+    ],
+    "metang": [
+        "Métang"
+    ],
+    "metapod": [
+        "Chrysacier"
+    ],
+    "mew": [
+        "Mew"
+    ],
+    "mewtwo": [
+        "Mewtwo"
+    ],
+    "mienfoo": [
+        "Kungfouine"
+    ],
+    "mienshao": [
+        "Shaofouine"
+    ],
+    "mightyena": [
+        "Grahyèna"
+    ],
+    "milcery": [
+        "Crèmy"
+    ],
+    "milotic": [
+        "Milobellus"
+    ],
+    "miltank": [
+        "Écrémeuh"
+    ],
+    "mime-jr": [
+        "Mime Jr."
+    ],
+    "mimikyu": [
+        "Mimiqui"
+    ],
+    "minccino": [
+        "Chinchidou"
+    ],
+    "minior": [
+        "Météno"
+    ],
+    "minun": [
+        "Négapi"
+    ],
+    "misdreavus": [
+        "Feuforêve"
+    ],
+    "mismagius": [
+        "Magirêve"
+    ],
+    "moltres": [
+        "Sulfura"
+    ],
+    "monferno": [
+        "Chimpenfeu"
+    ],
+    "morelull": [
+        "Spododo"
+    ],
+    "morgrem": [
+        "Fourbelin"
+    ],
+    "morpeko": [
+        "Morpeko"
+    ],
+    "mothim": [
+        "Papilord"
+    ],
+    "mr-mime": [
+        "M. Mime"
+    ],
+    "mr-rime": [
+        "M. Glaquette"
+    ],
+    "mudbray": [
+        "Tiboudet"
+    ],
+    "mudkip": [
+        "Gobou"
+    ],
+    "mudsdale": [
+        "Bourrinos"
+    ],
+    "muk": [
+        "Grotadmorv"
+    ],
+    "munchlax": [
+        "Goinfrex"
+    ],
+    "munna": [
+        "Munna"
+    ],
+    "murkrow": [
+        "Cornèbre"
+    ],
+    "musharna": [
+        "Mushana"
+    ],
+    "naganadel": [
+        "Mandrillon"
+    ],
+    "natu": [
+        "Natu"
+    ],
+    "necrozma": [
+        "Necrozma"
+    ],
+    "nickit": [
+        "Goupilou"
+    ],
+    "nidoking": [
+        "Nidoking"
+    ],
+    "nidoqueen": [
+        "Nidoqueen"
+    ],
+    "nidoran-f": [
+        "Nidoran♀"
+    ],
+    "nidoran-m": [
+        "Nidoran♂"
+    ],
+    "nidorina": [
+        "Nidorina"
+    ],
+    "nidorino": [
+        "Nidorino"
+    ],
+    "nihilego": [
+        "Zéroïd"
+    ],
+    "nincada": [
+        "Ningale"
+    ],
+    "ninetales": [
+        "Feunard"
+    ],
+    "ninjask": [
+        "Ninjask"
+    ],
+    "noctowl": [
+        "Noarfang"
+    ],
+    "noibat": [
+        "Sonistrelle"
+    ],
+    "noivern": [
+        "Bruyverne"
+    ],
+    "nosepass": [
+        "Tarinor"
+    ],
+    "numel": [
+        "Chamallot"
+    ],
+    "nuzleaf": [
+        "Pifeuil"
+    ],
+    "obstagoon": [
+        "Ixon"
+    ],
+    "octillery": [
+        "Octillery"
+    ],
+    "oddish": [
+        "Mystherbe"
+    ],
+    "omanyte": [
+        "Amonita"
+    ],
+    "omastar": [
+        "Amonistar"
+    ],
+    "onix": [
+        "Onix"
+    ],
+    "oranguru": [
+        "Gouroutan"
+    ],
+    "orbeetle": [
+        "Astronelle"
+    ],
+    "oricorio": [
+        "Plumeline"
+    ],
+    "oshawott": [
+        "Moustillon"
+    ],
+    "pachirisu": [
+        "Pachirisu"
+    ],
+    "palkia": [
+        "Palkia"
+    ],
+    "palossand": [
+        "Trépassable"
+    ],
+    "palpitoad": [
+        "Batracné"
+    ],
+    "pancham": [
+        "Pandespiègle"
+    ],
+    "pangoro": [
+        "Pandarbare"
+    ],
+    "panpour": [
+        "Flotajou"
+    ],
+    "pansage": [
+        "Feuillajou"
+    ],
+    "pansear": [
+        "Flamajou"
+    ],
+    "paras": [
+        "Paras"
+    ],
+    "parasect": [
+        "Parasect"
+    ],
+    "passimian": [
+        "Quartermac"
+    ],
+    "patrat": [
+        "Ratentif"
+    ],
+    "pawniard": [
+        "Scalpion"
+    ],
+    "pelipper": [
+        "Bekipan"
+    ],
+    "perrserker": [
+        "Berserkatt"
+    ],
+    "persian": [
+        "Persian"
+    ],
+    "petilil": [
+        "Chlorobule"
+    ],
+    "phanpy": [
+        "Phanpy"
+    ],
+    "phantump": [
+        "Brocélôme"
+    ],
+    "pheromosa": [
+        "Cancrelove"
+    ],
+    "phione": [
+        "Phione"
+    ],
+    "pichu": [
+        "Pichu"
+    ],
+    "pidgeot": [
+        "Roucarnage"
+    ],
+    "pidgeotto": [
+        "Roucoups"
+    ],
+    "pidgey": [
+        "Roucool"
+    ],
+    "pidove": [
+        "Poichigeon"
+    ],
+    "pignite": [
+        "Grotichon"
+    ],
+    "pikachu": [
+        "Pikachu"
+    ],
+    "pikipek": [
+        "Picassaut"
+    ],
+    "piloswine": [
+        "Cochignon"
+    ],
+    "pincurchin": [
+        "Wattapik"
+    ],
+    "pineco": [
+        "Pomdepik"
+    ],
+    "pinsir": [
+        "Scarabrute"
+    ],
+    "piplup": [
+        "Tiplouf"
+    ],
+    "plusle": [
+        "Posipi"
+    ],
+    "poipole": [
+        "Vémini"
+    ],
+    "politoed": [
+        "Tarpaud"
+    ],
+    "poliwag": [
+        "Ptitard"
+    ],
+    "poliwhirl": [
+        "Têtarte"
+    ],
+    "poliwrath": [
+        "Tartard"
+    ],
+    "polteageist": [
+        "Polthégeist"
+    ],
+    "ponyta": [
+        "Ponyta"
+    ],
+    "poochyena": [
+        "Medhyèna"
+    ],
+    "popplio": [
+        "Otaquin"
+    ],
+    "porygon": [
+        "Porygon"
+    ],
+    "porygon-z": [
+        "Porygon-Z"
+    ],
+    "porygon2": [
+        "Porygon2"
+    ],
+    "primarina": [
+        "Oratoria"
+    ],
+    "primeape": [
+        "Colossinge"
+    ],
+    "prinplup": [
+        "Prinplouf"
+    ],
+    "probopass": [
+        "Tarinorme"
+    ],
+    "psyduck": [
+        "Psykokwak"
+    ],
+    "pumpkaboo": [
+        "Pitrouille"
+    ],
+    "pupitar": [
+        "Ymphect"
+    ],
+    "purrloin": [
+        "Chacripan"
+    ],
+    "purugly": [
+        "Chaffreux"
+    ],
+    "pyroar": [
+        "Némélios"
+    ],
+    "pyukumuku": [
+        "Concombaffe"
+    ],
+    "quagsire": [
+        "Maraiste"
+    ],
+    "quilava": [
+        "Feurisson"
+    ],
+    "quilladin": [
+        "Boguérisse"
+    ],
+    "qwilfish": [
+        "Qwilfish"
+    ],
+    "raboot": [
+        "Lapyro"
+    ],
+    "raichu": [
+        "Raichu"
+    ],
+    "raikou": [
+        "Raikou"
+    ],
+    "ralts": [
+        "Tarsal"
+    ],
+    "rampardos": [
+        "Charkos"
+    ],
+    "rapidash": [
+        "Galopa"
+    ],
+    "raticate": [
+        "Rattatac"
+    ],
+    "rattata": [
+        "Rattata"
+    ],
+    "rayquaza": [
+        "Rayquaza"
+    ],
+    "regice": [
+        "Regice"
+    ],
+    "regidrago": [
+        "Regidrago"
+    ],
+    "regieleki": [
+        "Regieleki"
+    ],
+    "regigigas": [
+        "Regigigas"
+    ],
+    "regirock": [
+        "Regirock"
+    ],
+    "registeel": [
+        "Registeel"
+    ],
+    "relicanth": [
+        "Relicanth"
+    ],
+    "remoraid": [
+        "Rémoraid"
+    ],
+    "reshiram": [
+        "Reshiram"
+    ],
+    "reuniclus": [
+        "Symbios"
+    ],
+    "rhydon": [
+        "Rhinoféros"
+    ],
+    "rhyhorn": [
+        "Rhinocorne"
+    ],
+    "rhyperior": [
+        "Rhinastoc"
+    ],
+    "ribombee": [
+        "Rubombelle"
+    ],
+    "rillaboom": [
+        "Gorythmic"
+    ],
+    "riolu": [
+        "Riolu"
+    ],
+    "rockruff": [
+        "Rocabot"
+    ],
+    "roggenrola": [
+        "Nodulithe"
+    ],
+    "rolycoly": [
+        "Charbi"
+    ],
+    "rookidee": [
+        "Minisange"
+    ],
+    "roselia": [
+        "Rosélia"
+    ],
+    "roserade": [
+        "Roserade"
+    ],
+    "rotom": [
+        "Motisma"
+    ],
+    "rowlet": [
+        "Brindibou"
+    ],
+    "rufflet": [
+        "Furaiglon"
+    ],
+    "runerigus": [
+        "Tutétékri"
+    ],
+    "sableye": [
+        "Ténéfix"
+    ],
+    "salamence": [
+        "Drattak"
+    ],
+    "salandit": [
+        "Tritox"
+    ],
+    "salazzle": [
+        "Malamandre"
+    ],
+    "samurott": [
+        "Clamiral"
+    ],
+    "sandaconda": [
+        "Dunaconda"
+    ],
+    "sandile": [
+        "Mascaïman"
+    ],
+    "sandshrew": [
+        "Sabelette"
+    ],
+    "sandslash": [
+        "Sablaireau"
+    ],
+    "sandygast": [
+        "Bacabouh"
+    ],
+    "sawk": [
+        "Karaclée"
+    ],
+    "sawsbuck": [
+        "Haydaim"
+    ],
+    "scatterbug": [
+        "Lépidonille"
+    ],
+    "sceptile": [
+        "Jungko"
+    ],
+    "scizor": [
+        "Cizayox"
+    ],
+    "scolipede": [
+        "Brutapode"
+    ],
+    "scorbunny": [
+        "Flambino"
+    ],
+    "scrafty": [
+        "Baggaïd"
+    ],
+    "scraggy": [
+        "Baggiguane"
+    ],
+    "scyther": [
+        "Insécateur"
+    ],
+    "seadra": [
+        "Hypocéan"
+    ],
+    "seaking": [
+        "Poissoroy"
+    ],
+    "sealeo": [
+        "Phogleur"
+    ],
+    "seedot": [
+        "Grainipiot"
+    ],
+    "seel": [
+        "Otaria"
+    ],
+    "seismitoad": [
+        "Crapustule"
+    ],
+    "sentret": [
+        "Fouinette"
+    ],
+    "serperior": [
+        "Majaspic"
+    ],
+    "servine": [
+        "Lianaja"
+    ],
+    "seviper": [
+        "Séviper"
+    ],
+    "sewaddle": [
+        "Larveyette"
+    ],
+    "sharpedo": [
+        "Sharpedo"
+    ],
+    "shaymin": [
+        "Shaymin"
+    ],
+    "shedinja": [
+        "Munja"
+    ],
+    "shelgon": [
+        "Drackhaus"
+    ],
+    "shellder": [
+        "Kokiyas"
+    ],
+    "shellos": [
+        "Sancoki"
+    ],
+    "shelmet": [
+        "Escargaume"
+    ],
+    "shieldon": [
+        "Dinoclier"
+    ],
+    "shiftry": [
+        "Tengalice"
+    ],
+    "shiinotic": [
+        "Lampignon"
+    ],
+    "shinx": [
+        "Lixy"
+    ],
+    "shroomish": [
+        "Balignon"
+    ],
+    "shuckle": [
+        "Caratroc"
+    ],
+    "shuppet": [
+        "Polichombr"
+    ],
+    "sigilyph": [
+        "Cryptéro"
+    ],
+    "silcoon": [
+        "Armulys"
+    ],
+    "silicobra": [
+        "Dunaja"
+    ],
+    "silvally": [
+        "Silvallié"
+    ],
+    "simipour": [
+        "Flotoutan"
+    ],
+    "simisage": [
+        "Feuiloutan"
+    ],
+    "simisear": [
+        "Flamoutan"
+    ],
+    "sinistea": [
+        "Théffroi"
+    ],
+    "sirfetch-d": [
+        "Palarticho"
+    ],
+    "sizzlipede": [
+        "Grillepattes"
+    ],
+    "skarmory": [
+        "Airmure"
+    ],
+    "skiddo": [
+        "Cabriolaine"
+    ],
+    "skiploom": [
+        "Floravol"
+    ],
+    "skitty": [
+        "Skitty"
+    ],
+    "skorupi": [
+        "Rapion"
+    ],
+    "skrelp": [
+        "Venalgue"
+    ],
+    "skuntank": [
+        "Moufflair"
+    ],
+    "skwovet": [
+        "Rongourmand"
+    ],
+    "slaking": [
+        "Monaflèmit"
+    ],
+    "slakoth": [
+        "Parecool"
+    ],
+    "sliggoo": [
+        "Colimucus"
+    ],
+    "slowbro": [
+        "Flagadoss"
+    ],
+    "slowking": [
+        "Roigada"
+    ],
+    "slowpoke": [
+        "Ramoloss"
+    ],
+    "slugma": [
+        "Limagma"
+    ],
+    "slurpuff": [
+        "Cupcanaille"
+    ],
+    "smeargle": [
+        "Queulorior"
+    ],
+    "smoochum": [
+        "Lippouti"
+    ],
+    "sneasel": [
+        "Farfuret"
+    ],
+    "snivy": [
+        "Vipélierre"
+    ],
+    "snom": [
+        "Frissonille"
+    ],
+    "snorlax": [
+        "Ronflex"
+    ],
+    "snorunt": [
+        "Stalgamin"
+    ],
+    "snover": [
+        "Blizzi"
+    ],
+    "snubbull": [
+        "Snubbull"
+    ],
+    "sobble": [
+        "Larméléon"
+    ],
+    "solgaleo": [
+        "Solgaleo"
+    ],
+    "solosis": [
+        "Nucléos"
+    ],
+    "solrock": [
+        "Solaroc"
+    ],
+    "spearow": [
+        "Piafabec"
+    ],
+    "spectrier": [
+        "Spectreval"
+    ],
+    "spewpa": [
+        "Pérégrain"
+    ],
+    "spheal": [
+        "Obalie"
+    ],
+    "spinarak": [
+        "Mimigal"
+    ],
+    "spinda": [
+        "Spinda"
+    ],
+    "spiritomb": [
+        "Spiritomb"
+    ],
+    "spoink": [
+        "Spoink"
+    ],
+    "spritzee": [
+        "Fluvetin"
+    ],
+    "squirtle": [
+        "Carapuce"
+    ],
+    "stakataka": [
+        "Ama-Ama"
+    ],
+    "stantler": [
+        "Cerfrousse"
+    ],
+    "staraptor": [
+        "Étouraptor"
+    ],
+    "staravia": [
+        "Étourvol"
+    ],
+    "starly": [
+        "Étourmi"
+    ],
+    "starmie": [
+        "Staross"
+    ],
+    "staryu": [
+        "Stari"
+    ],
+    "steelix": [
+        "Steelix"
+    ],
+    "steenee": [
+        "Candine"
+    ],
+    "stonjourner": [
+        "Dolman"
+    ],
+    "stoutland": [
+        "Mastouffe"
+    ],
+    "stufful": [
+        "Nounourson"
+    ],
+    "stunfisk": [
+        "Limonde"
+    ],
+    "stunky": [
+        "Moufouette"
+    ],
+    "sudowoodo": [
+        "Simularbre"
+    ],
+    "suicune": [
+        "Suicune"
+    ],
+    "sunflora": [
+        "Héliatronc"
+    ],
+    "sunkern": [
+        "Tournegrin"
+    ],
+    "surskit": [
+        "Arakdo"
+    ],
+    "swablu": [
+        "Tylton"
+    ],
+    "swadloon": [
+        "Couverdure"
+    ],
+    "swalot": [
+        "Avaltout"
+    ],
+    "swampert": [
+        "Laggron"
+    ],
+    "swanna": [
+        "Lakmécygne"
+    ],
+    "swellow": [
+        "Hélédelle"
+    ],
+    "swinub": [
+        "Marcacrin"
+    ],
+    "swirlix": [
+        "Sucroquin"
+    ],
+    "swoobat": [
+        "Rhinolove"
+    ],
+    "sylveon": [
+        "Nymphali"
+    ],
+    "taillow": [
+        "Nirondelle"
+    ],
+    "talonflame": [
+        "Flambusard"
+    ],
+    "tangela": [
+        "Saquedeneu"
+    ],
+    "tangrowth": [
+        "Bouldeneu"
+    ],
+    "tapu-bulu": [
+        "Tokotoro"
+    ],
+    "tapu-fini": [
+        "Tokopisco"
+    ],
+    "tapu-koko": [
+        "Tokorico"
+    ],
+    "tapu-lele": [
+        "Tokopiyon"
+    ],
+    "tauros": [
+        "Tauros"
+    ],
+    "teddiursa": [
+        "Teddiursa"
+    ],
+    "tentacool": [
+        "Tentacool"
+    ],
+    "tentacruel": [
+        "Tentacruel"
+    ],
+    "tepig": [
+        "Gruikui"
+    ],
+    "terrakion": [
+        "Terrakium"
+    ],
+    "thievul": [
+        "Roublenard"
+    ],
+    "throh": [
+        "Judokrak"
+    ],
+    "thundurus": [
+        "Fulguris"
+    ],
+    "thwackey": [
+        "Badabouin"
+    ],
+    "timburr": [
+        "Charpenti"
+    ],
+    "tirtouga": [
+        "Carapagos"
+    ],
+    "togedemaru": [
+        "Togedemaru"
+    ],
+    "togekiss": [
+        "Togekiss"
+    ],
+    "togepi": [
+        "Togepi"
+    ],
+    "togetic": [
+        "Togetic"
+    ],
+    "torchic": [
+        "Poussifeu"
+    ],
+    "torkoal": [
+        "Chartor"
+    ],
+    "tornadus": [
+        "Boréas"
+    ],
+    "torracat": [
+        "Matoufeu"
+    ],
+    "torterra": [
+        "Torterra"
+    ],
+    "totodile": [
+        "Kaiminus"
+    ],
+    "toucannon": [
+        "Bazoucan"
+    ],
+    "toxapex": [
+        "Prédastérie"
+    ],
+    "toxel": [
+        "Toxizap"
+    ],
+    "toxicroak": [
+        "Coatox"
+    ],
+    "toxtricity": [
+        "Salarsen"
+    ],
+    "tranquill": [
+        "Colombeau"
+    ],
+    "trapinch": [
+        "Kraknoix"
+    ],
+    "treecko": [
+        "Arcko"
+    ],
+    "trevenant": [
+        "Desséliande"
+    ],
+    "tropius": [
+        "Tropius"
+    ],
+    "trubbish": [
+        "Miamiasme"
+    ],
+    "trumbeak": [
+        "Piclairon"
+    ],
+    "tsareena": [
+        "Sucreine"
+    ],
+    "turtonator": [
+        "Boumata"
+    ],
+    "turtwig": [
+        "Tortipouss"
+    ],
+    "tympole": [
+        "Tritonde"
+    ],
+    "tynamo": [
+        "Anchwatt"
+    ],
+    "type-null": [
+        "Type:0"
+    ],
+    "typhlosion": [
+        "Typhlosion"
+    ],
+    "tyranitar": [
+        "Tyranocif"
+    ],
+    "tyrantrum": [
+        "Rexillius"
+    ],
+    "tyrogue": [
+        "Debugant"
+    ],
+    "tyrunt": [
+        "Ptyranidur"
+    ],
+    "umbreon": [
+        "Noctali"
+    ],
+    "unfezant": [
+        "Déflaisan"
+    ],
+    "unown": [
+        "Zarbi"
+    ],
+    "ursaring": [
+        "Ursaring"
+    ],
+    "urshifu": [
+        "Shifours"
+    ],
+    "uxie": [
+        "Créhelf"
+    ],
+    "vanillish": [
+        "Sorboul"
+    ],
+    "vanillite": [
+        "Sorbébé"
+    ],
+    "vanilluxe": [
+        "Sorbouboul"
+    ],
+    "vaporeon": [
+        "Aquali"
+    ],
+    "venipede": [
+        "Venipatte"
+    ],
+    "venomoth": [
+        "Aéromite"
+    ],
+    "venonat": [
+        "Mimitoss"
+    ],
+    "venusaur": [
+        "Florizarre"
+    ],
+    "vespiquen": [
+        "Apireine"
+    ],
+    "vibrava": [
+        "Vibraninf"
+    ],
+    "victini": [
+        "Victini"
+    ],
+    "victreebel": [
+        "Empiflor"
+    ],
+    "vigoroth": [
+        "Vigoroth"
+    ],
+    "vikavolt": [
+        "Lucanon"
+    ],
+    "vileplume": [
+        "Rafflesia"
+    ],
+    "virizion": [
+        "Viridium"
+    ],
+    "vivillon": [
+        "Prismillon"
+    ],
+    "volbeat": [
+        "Muciole"
+    ],
+    "volcanion": [
+        "Volcanion"
+    ],
+    "volcarona": [
+        "Pyrax"
+    ],
+    "voltorb": [
+        "Voltorbe"
+    ],
+    "vullaby": [
+        "Vostourno"
+    ],
+    "vulpix": [
+        "Goupix"
+    ],
+    "wailmer": [
+        "Wailmer"
+    ],
+    "wailord": [
+        "Wailord"
+    ],
+    "walrein": [
+        "Kaimorse"
+    ],
+    "wartortle": [
+        "Carabaffe"
+    ],
+    "watchog": [
+        "Miradar"
+    ],
+    "weavile": [
+        "Dimoret"
+    ],
+    "weedle": [
+        "Aspicot"
+    ],
+    "weepinbell": [
+        "Boustiflor"
+    ],
+    "weezing": [
+        "Smogogo"
+    ],
+    "whimsicott": [
+        "Farfaduvet"
+    ],
+    "whirlipede": [
+        "Scobolide"
+    ],
+    "whiscash": [
+        "Barbicha"
+    ],
+    "whismur": [
+        "Chuchmur"
+    ],
+    "wigglytuff": [
+        "Grodoudou"
+    ],
+    "wimpod": [
+        "Sovkipou"
+    ],
+    "wingull": [
+        "Goélise"
+    ],
+    "wishiwashi": [
+        "Froussardine"
+    ],
+    "wobbuffet": [
+        "Qulbutoké"
+    ],
+    "woobat": [
+        "Chovsourir"
+    ],
+    "wooloo": [
+        "Moumouton"
+    ],
+    "wooper": [
+        "Axoloto"
+    ],
+    "wormadam": [
+        "Cheniselle"
+    ],
+    "wurmple": [
+        "Chenipotte"
+    ],
+    "wynaut": [
+        "Okéoké"
+    ],
+    "xatu": [
+        "Xatu"
+    ],
+    "xerneas": [
+        "Xerneas"
+    ],
+    "xurkitree": [
+        "Câblifère"
+    ],
+    "yamask": [
+        "Tutafeh"
+    ],
+    "yamper": [
+        "Voltoutou"
+    ],
+    "yanma": [
+        "Yanma"
+    ],
+    "yanmega": [
+        "Yanmega"
+    ],
+    "yungoos": [
+        "Manglouton"
+    ],
+    "yveltal": [
+        "Yveltal"
+    ],
+    "zacian": [
+        "Zacian"
+    ],
+    "zamazenta": [
+        "Zamazenta"
+    ],
+    "zangoose": [
+        "Mangriff"
+    ],
+    "zapdos": [
+        "Électhor"
+    ],
+    "zarude": [
+        "Zarude"
+    ],
+    "zebstrika": [
+        "Zéblitz"
+    ],
+    "zekrom": [
+        "Zekrom"
+    ],
+    "zeraora": [
+        "Zeraora"
+    ],
+    "zigzagoon": [
+        "Zigzaton"
+    ],
+    "zoroark": [
+        "Zoroark"
+    ],
+    "zorua": [
+        "Zorua"
+    ],
+    "zubat": [
+        "Nosferapti"
+    ],
+    "zweilous": [
+        "Diamat"
+    ],
+    "zygarde": [
+        "Zygarde"
+    ]
+}
